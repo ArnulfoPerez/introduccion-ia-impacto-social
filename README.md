@@ -21,7 +21,7 @@ Este curso es ideal para cualquier persona curiosa sobre la IA, incluyendo:
 * **Personal administrativo y directivo** que necesita una visión estratégica de la IA.
 * **Ciudadanos interesados** en los debates sociales, éticos y culturales que la IA genera.
 
-### **[Objetivos de Aprendizaje](https://github.com/ArnulfoPerez/introduccion-ia-impacto-social/blob/main/objetivos_de_aprendizaje.md)**
+### **[Objetivos de Aprendizaje](./Curso/objetivos_de_aprendizaje.md)**
 
 Al finalizar el curso, serás capaz de:
 
