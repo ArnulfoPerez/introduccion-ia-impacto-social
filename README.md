@@ -37,7 +37,7 @@ Al finalizar el curso, serás capaz de:
 
 Hemos organizado este repositorio para que encuentres fácilmente lo que necesitas. Aquí un mapa rápido:
 
-* **[`Curso/`](./Curso/)**: Información general del curso, [descripción detallada, objetivos y temario completo](./Curso/descripcion).
+* **[`Curso/`](./Curso/)**: Información general del curso, [descripción detallada, objetivos y temario completo](./Curso/descripcion.md).
 * **[`Sesiones/`](./Sesiones/)**: Material específico para cada una de las 8 sesiones, incluyendo presentaciones y cuadernillos.
 * **[`Actividades/`](./Actividades/)**: Ejercicios prácticos y dinámicas para reforzar tu aprendizaje.
 * **[`Recursos_Adicionales/`](./Recursos_Adicionales/)**: Un compendio de material de apoyo para profundizar: glosario, guías de referencia comentadas, herramientas recomendadas y más.
