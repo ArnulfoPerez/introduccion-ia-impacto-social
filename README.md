@@ -21,7 +21,7 @@ Este curso es ideal para cualquier persona curiosa sobre la IA, incluyendo:
 * **Personal administrativo y directivo** que necesita una visión estratégica de la IA.
 * **Ciudadanos interesados** en los debates sociales, éticos y culturales que la IA genera.
 
-### **Objetivos de Aprendizaje**
+### **[Objetivos de Aprendizaje]()**
 
 Al finalizar el curso, serás capaz de:
 
