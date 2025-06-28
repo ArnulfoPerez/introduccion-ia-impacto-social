@@ -40,7 +40,7 @@ Hemos organizado este repositorio para que encuentres fácilmente lo que necesit
 * **[`Curso/`](./Curso/)**: Información general del curso, [descripción detallada, objetivos y temario completo](./Curso/descripcion.md).
 * **[`Sesiones/`](./Sesiones/)**: Material específico para cada una de las 8 sesiones, incluyendo presentaciones y cuadernillos.
 * **[`Actividades/`](./Actividades/)**: Ejercicios prácticos y dinámicas para reforzar tu aprendizaje.
-* **[`Recursos_Adicionales/`](./Recursos_Adicionales/)**: Un compendio de material de apoyo para profundizar: glosario, guías de referencia comentadas, herramientas recomendadas y más.
+* **[`Recursos_Adicionales/`](./Recursos/)**: Un compendio de material de apoyo para profundizar: glosario, guías de referencia comentadas, herramientas recomendadas y más.
 
 ---
 
