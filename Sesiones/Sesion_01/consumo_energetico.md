@@ -13,6 +13,11 @@ Este documento presenta una síntesis comparativa entre el consumo energético d
 
 > El cerebro humano es capaz de mantener funciones complejas —memoria, lenguaje, percepción, emoción— con el equivalente energético de una bombilla LED.
 
+Un ser humano adulto promedio consume entre 1,800 y 2,500 kilocalorías al día, lo que equivale a 2.1–2.9 kWh diarios.
+
+El cerebro, con sus 20W, representa aproximadamente 0.48 kWh por día, es decir, casi una cuarta parte del gasto energético total.
+Cuando decimos que el cerebro humano consume 20 vatios (W), nos referimos a que, en reposo, utiliza aproximadamente esa cantidad de energía eléctrica de forma continua —lo suficiente para encender una bombilla LED pequeña. Aunque representa solo el 2% del peso corporal, el cerebro consume alrededor del 20% de la energía total del cuerpo humano. Esto equivale a unas 300–400 kilocalorías al día, incluso sin realizar tareas cognitivas exigentes.
+
 ---
 
 ## 🤖 Inteligencia artificial: potencia computacional y huella energética
@@ -24,6 +29,14 @@ Este documento presenta una síntesis comparativa entre el consumo energético d
 - **IA especializada (modelo optimizado):** ~0.03–0.05 Wh por consulta
 
 > Aunque una consulta de IA puede parecer ligera, su impacto se multiplica por millones de usuarios y respuestas diarias.
+
+El consumo energético de una sola consulta a un modelo de IA como ChatGPT o similares varía según la complejidad del modelo y la infraestructura, pero estudios recientes estiman que:
+
+Una consulta promedio puede consumir entre 0.3 y 1 kilojulio (≈ 0.08 Wh) por respuesta generada.
+
+En centros de datos a gran escala, el consumo se multiplica por millones de consultas diarias.
+
+Según investigadores de la UNAM y el IPN, una sesión de 20 a 50 preguntas puede equivaler al uso de 500 ml de agua en términos de refrigeración y energía indirecta
 
 ### 🔹 Consumo total estimado (2024–2025)
 
