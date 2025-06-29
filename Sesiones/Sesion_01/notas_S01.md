@@ -515,6 +515,21 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 
 ---
 
+- [Documental: AlphaGo (DeepMind, 2017)](https://www.youtube.com/watch?v=WXuK6gekU1Y)  
+- [Video introductorio: ¿Qué es la IA? – EDteam](https://www.youtube.com/watch?v=tA5cinvOU8)
+
+---
+
+## 🛠️ ¿Cómo contribuir?
+
+Este repositorio es de lectura abierta, pero si deseas proponer mejoras, ejercicios, referencias o adaptar el contenido para tu grupo, puedes hacer un fork o enviar un issue en GitHub.
+
+---
+
+## 📄 Licencia
+
+Este contenido se distribuye bajo licencia **CC BY-NC-SA 4.0**. Se permite su uso, adaptación y distribución con fines no comerciales, siempre que se cite al autor original.
+
 ## ✍️ Preguntas para reflexión final
 
 - ¿Qué idea de la sesión cambió o amplió tu visión sobre la inteligencia?
