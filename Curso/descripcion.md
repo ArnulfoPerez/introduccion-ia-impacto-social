@@ -1,57 +1,128 @@
 
-# Descripción Detallada del Curso: Introducción a la Inteligencia Artificial y su Impacto en la Sociedad
+# Curso de Extensión Universitaria (Modalidad Remota vía Zoom Corporativo)
 
-## 1. Descripción General del Curso
+## Título del curso
+**Inteligencia Artificial y Sociedad: Comprensión Crítica, Riesgos y Futuro**
 
-"Introducción a la Inteligencia Artificial y su Impacto en la Sociedad", está diseñado para proporcionar una comprensión **accesible, crítica y culturalmente enriquecida** de la Inteligencia Artificial (IA). A lo largo de **8 sesiones de una hora cada una** (organizadas en 4 bloques temáticos de 2 horas), los participantes explorarán los fundamentos conceptuales de la IA y sus implicaciones sociales, éticas, laborales y culturales.
+---
 
-El programa busca desmitificar la IA, ir más allá del "hype" y las narrativas simplistas, para ofrecer una visión equilibrada y práctica. Cada sesión está estructurada para incluir una introducción, tres bloques temáticos correlacionados con el objetivo principal de la sesión, y un espacio final para la reflexión y el debate abierto, fomentando así un aprendizaje interactivo y participativo.
+## 1. Descripción general del curso
 
-## 2. Audiencia Objetivo
+"Inteligencia Artificial y Sociedad: Comprensión Crítica, Riesgos y Futuro" es un curso remoto, intensivo y participativo diseñado para introducir al público general en la comprensión conceptual, social y estratégica de la inteligencia artificial (IA). Está estructurado en **4 bloques temáticos**, cada uno compuesto por **2 sesiones de una hora**, para un total de **8 horas sincrónicas por Zoom Corporativo**.
 
-Este curso está específicamente dirigido a **personas sin formación técnica previa** en programación, matemáticas avanzadas o ingeniería, pero con un interés genuino en comprender la IA desde una **perspectiva conceptual, social y estratégica**. La audiencia incluye, pero no se limita a:
+A lo largo de las sesiones, se desmitificará la IA, contextualizándola histórica y socialmente, y se explorarán sus impactos éticos, laborales, ambientales y culturales. El enfoque es interdisciplinario y está centrado en el pensamiento crítico, la deliberación ética y la anticipación de escenarios futuros.
 
-* **Estudiantes de preparatoria o universidad** de cualquier disciplina que deseen una base sólida sobre un tema transformador.
-* **Profesionales de áreas no técnicas** (marketing, recursos humanos, derecho, comunicación, administración, etc.) que necesitan entender cómo la IA está reconfigurando sus industrias.
-* **Personal administrativo y directivo** que busca tomar decisiones estratégicas informadas sobre la adopción y gestión de tecnologías de IA en sus organizaciones.
-* **Cualquier persona interesada en el impacto social, ético y cultural de la IA** en su vida cotidiana y en la sociedad en general.
+Cada sesión incluye:
+- Una **introducción conceptual**
+- **Bloques temáticos estructurados**
+- Un **espacio final de reflexión activa y discusión guiada**
 
-## 3. Por Qué Este Curso Es Importante
+---
 
-La IA ha trascendido los laboratorios de investigación para convertirse en una fuerza que moldea nuestra vida diaria, el futuro del trabajo y la competitividad empresarial. La IA no es solo una herramienta tecnológica; es un fenómeno sociocultural que plantea preguntas fundamentales sobre la ética, la privacidad, el empleo, la equidad y el futuro de la humanidad. Una ciudadanía informada sobre la IA es vital para:
+## 2. Audiencia objetivo
 
-* **Participación Democrática:** Comprender cómo la IA influye en la información, las noticias, las elecciones y la formación de opinión pública permite a los ciudadanos participar de manera más crítica y activa en el diálogo público y en la formulación de políticas.
-* **Resiliencia Personal:** Desarrollar una comprensión de los sesgos algorítmicos, la vigilancia masiva y el impacto en el empleo ayuda a las personas a navegar un mundo en constante cambio, a proteger su privacidad y a adaptarse a nuevas realidades laborales.
-* **Pensamiento Crítico:** El curso fomenta la capacidad de discernir entre la retórica y la realidad de la IA, permitiendo a los individuos evaluar las afirmaciones sobre esta tecnología de manera más sofisticada y evitar tanto el optimismo ingenuo como el catastrofismo infundado.
-* **Responsabilidad Ética:** Al entender los dilemas éticos asociados con la IA (ej. sesgos, autonomía, toma de decisiones), los ciudadanos pueden exigir transparencia y responsabilidad a los desarrolladores y usuarios de IA, contribuyendo a un futuro más justo.
+El curso está diseñado para personas sin formación técnica previa, pero con interés en entender la IA desde una perspectiva más profunda y crítica. Está dirigido, entre otros, a:
 
-Para los profesionales y líderes empresariales, entender el potencial, las limitaciones, y los riesgos de la IA es una necesidad estratégica. Una comprensión sólida de la IA es crucial para:
+- Estudiantes universitarios o de preparatoria de cualquier área disciplinaria
+- Profesionales en áreas no técnicas (derecho, comunicación, administración, mercadotecnia, recursos humanos)
+- Personal administrativo o directivo interesado en la adopción estratégica de IA
+- Ciudadanía en general preocupada por los impactos sociales, laborales y éticos de la IA
 
-* **Toma de Decisiones Estratégicas:** No es necesario ser un programador, pero sí entender qué puede y no puede hacer la IA, cómo se integra en los sistemas existentes y qué recursos (datos, cómputo) requiere. Esto permite a los líderes identificar oportunidades reales, evitar inversiones erróneas y definir una hoja de ruta tecnológica coherente.
-* **Optimización Operacional:** Comprender las aplicaciones prácticas de la IA (automatización de procesos, análisis predictivo, personalización de servicios) permite a los profesionales identificar dónde la IA puede mejorar la eficiencia, reducir costos y optimizar las operaciones diarias de la empresa.
-* **Ventaja Competitiva:** Las empresas que adoptan la IA de manera estratégica y ética estarán mejor posicionadas para innovar, personalizar sus ofertas y diferenciarse en el mercado. Este curso proporciona el conocimiento fundamental para iniciar o acelerar esta transformación.
-* **Gestión del Talento y la Transformación Cultural:** La IA está redefiniendo los roles laborales. Los líderes deben comprender este impacto para gestionar la reskilling de su fuerza laboral, fomentar una cultura de adaptación y aprovechar el potencial humano-IA.
-* **Mitigación de Riesgos:** Entender los "costos ocultos" (energía, sesgos, privacidad) y los riesgos regulatorios de la IA permite a las empresas implementar soluciones de IA de manera responsable, minimizando riesgos legales, reputacionales y operativos.
+---
 
-## 4. Temario del Curso: Idoneidad y Cumplimiento de Objetivos
+## 3. ¿Por qué este curso es importante?
 
-El temario de 8 sesiones está estructurado para cumplir con los objetivos de aprendizaje en el tiempo programado, siguiendo una progresión lógica que va de lo fundamental a lo complejo, y de lo conceptual a lo práctico y reflexivo.
+La inteligencia artificial es ya parte primordial del tejido estructural que reorganiza industrias, empleos, decisiones políticas y experiencias cotidianas. Comprenderla es fundamental para:
 
-* **Bloque 1 (Sesiones 1 y 2): Fundamentos de la IA.**
-    * **Coherencia:** Abordan directamente el **Objetivo 1 (Comprender qué es la IA y cómo ha evolucionado)**. Comienzan con una introducción básica, desmitificación y relevancia actual, para luego profundizar en la naturaleza de la inteligencia (humana vs. artificial) y la historia de la IA. Esto sienta las bases conceptuales necesarias sin abrumar con tecnicismos.
-    * **Idoneidad:** Es el punto de partida esencial para una audiencia no técnica, estableciendo un lenguaje común y una base sólida antes de abordar temas más complejos.
+- Participar informadamente en debates democráticos sobre su regulación
+- Proteger derechos individuales y colectivos frente a los riesgos de automatización, sesgos o vigilancia
+- Tomar decisiones estratégicas (personales o organizacionales) con base en capacidades reales de la IA
+- Desarrollar pensamiento crítico para navegar entre discursos tecnofóbicos y tecnoutópicos
 
-* **Bloque 2 (Sesiones 3 y 4): IA en la Práctica y sus Implicaciones.**
-    * **Coherencia:** La Sesión 3 se enfoca en el **Objetivo 2 (Identificar cómo funciona la IA moderna y sus aplicaciones prácticas)** al explicar datos, algoritmos y entrenamiento. La Sesión 4, al cubrir los "costos ocultos" (energía, modelos masivos), introduce parte del **Objetivo 4 (Evaluar su impacto ambiental)**, preparando el terreno para una visión más crítica.
-    * **Idoneidad:** Proporciona el "cómo" y el "porqué" de la IA moderna de forma accesible, y de inmediato introduce una perspectiva crítica sobre sus implicaciones, lo cual es vital para una ciudadanía y una gestión informada.
+---
 
-* **Bloque 3 (Sesiones 5 y 6): IA, Sociedad y Ética.**
-    * **Coherencia:** La Sesión 5 se centra plenamente en el **Objetivo 4 (Impacto ético)**, abordando sesgos, transparencia y responsabilidad. La Sesión 6 profundiza en el impacto social y laboral, y la gobernanza algorítmica, cubriendo aún más el **Objetivo 4 (Impacto social y laboral)** y sentando bases para el **Objetivo 5 (Participar de manera informada)**.
-    * **Idoneidad:** Este bloque es el corazón de la perspectiva crítica y sociopolítica del curso. Es crucial para que la audiencia no técnica entienda las dimensiones humanas y sistémicas de la IA más allá de su funcionalidad.
+## 4. Objetivos de aprendizaje
 
-* **Bloque 4 (Sesiones 7 y 8): El Futuro y la Acción.**
-    * **Coherencia:** La Sesión 7 aborda el **Objetivo 3 (Analizar críticamente su representación en la cultura y la conciencia colectiva)** explorando la IA en literatura y cine. La Sesión 8 es una recapitulación que refuerza **todos los objetivos (O1-O5)** a través de la reflexión y la discusión, solidificando la capacidad de los participantes para participar de manera informada.
-    * **Idoneidad:** Concluye el curso con una mirada a la influencia cultural de la IA, fundamental para la ciudadanía informada, y un cierre que permite consolidar el aprendizaje y aplicar la perspectiva crítica adquirida a discusiones y decisiones futuras.
+Al finalizar el curso, las y los participantes podrán:
 
-En resumen, el diseño del temario garantiza una progresión lógica y una cobertura exhaustiva de los objetivos de aprendizaje en el tiempo estipulado, ofreciendo una experiencia educativa integral y relevante para la audiencia objetivo.
+1. Comprender el papel estructurante de la IA en sistemas sociales, económicos, laborales y políticos.
+2. Explorar escenarios futuros mediados por IA, evaluando riesgos, desigualdades y oportunidades.
+3. Identificar dilemas éticos, tensiones normativas y desafíos de gobernanza algorítmica.
+4. Analizar críticamente cómo la cultura popular y los discursos tecnopolíticos modelan la percepción pública de la IA.
+5. Participar activamente e informar decisiones individuales, colectivas o profesionales en relación con la IA.
+
+---
+
+## 5. Contenido del curso por bloques
+
+### 🔹 Bloque 1 — Inteligencia artificial: ¿De dónde viene y a dónde va?
+**Sesión 1.1 – Inteligencia humana vs. inteligencia artificial**  
+Exploración del concepto de inteligencia desde la neurociencia, la lógica computacional y la representación cultural. Introducción a la IA desde la cibernética de Wiener y Rosenblueth, hasta los mitos modernos.
+
+**Sesión 1.2 – Historia crítica de la IA**  
+Del test de Turing a los modelos predictivos: ciclos de entusiasmo y decepción, impacto geopolítico, militar y académico. Breve genealogía de los enfoques simbólicos, conexionistas y estadísticos.
+
+---
+
+### 🔹 Bloque 2 — Cómo funciona la IA y a qué costo
+**Sesión 2.1 – ¿Cómo “aprende” una IA? Modelos, datos y entrenamiento**  
+Explicación accesible de redes neuronales, entrenamiento con grandes volúmenes de datos y limitaciones. Introducción a los sesgos y las “cajas negras” algorítmicas.
+
+**Sesión 2.2 – Costos invisibles: energía, datos y poder corporativo**  
+Impacto ambiental, infraestructura tecnológica, y concentración económica derivada de plataformas y modelos fundacionales. ¿Quién gana, quién paga, quién decide?
+
+---
+
+### 🔹 Bloque 3 — Las dimensiones Ética, laboral, y jurídica de la IA
+**Sesión 3.1 – Dilemas éticos: sesgos, vigilancia y transparencia**  
+Estudio de casos reales sobre IA discriminatoria. Marco ético para evaluar responsabilidad, opacidad técnica y gobernanza. Panorama regulatorio emergente.
+
+**Sesión 3.2 – IA y el trabajo: desplazamiento, control y nuevos vínculos humanos-máquina**  
+Impacto de la IA en el empleo, algoritmización del trabajo, precarización, oportunidades emergentes y estrategias de resiliencia desde el rediseño organizacional y educativo.
+
+---
+
+### 🔹 Bloque 4 — La IA en la sociedad, presente y futuro
+**Sesión 4.1 – ¿Cómo imaginamos la IA?**  
+Análisis de películas, literatura, medios y marketing tecnológico. Construcción de imaginarios y su efecto sobre la opinión pública y la adopción acrítica.
+
+**Sesión 4.2 – Futuros posibles**  
+Diseño participativo de escenarios futuros. ¿Qué IA queremos construir? ¿Qué decisiones deben tomarse hoy? Taller de síntesis y proyección crítica.
+
+---
+
+## 6. Metodología
+
+- **Clases sincrónicas por Zoom Business** (con herramientas como encuestas, salas paralelas y pizarras colaborativas)
+- Exposición interactiva, apoyada en recursos visuales y fragmentos multimedia
+- **Aula virtual** opcional con materiales, foro y recursos complementarios
+- Grabaciones disponibles bajo solicitud institucional
+
+---
+
+## 7. Perfil del facilitador
+
+El curso será impartido por un/a académico/a con formación en inteligencia artificial, sistemas complejos y pensamiento sistémico, con experiencia docente en universidades de México y el extranjero. Su enfoque combina sensibilidad ética, solidez técnica y mirada crítica hacia el impacto social de las tecnologías.
+
+---
+
+## 8. Requisitos institucionales
+
+- Plataforma Zoom Business habilitada para sesiones de 1 hora con funciones de grabación, breakout rooms, y coanfitrión
+- Apoyo técnico durante sesiones (opcional pero recomendable)
+- Difusión a través de canales institucionales
+- Certificación digital para participantes con al menos 80% de asistencia
+
+---
+
+## 9. Certificación
+
+Los participantes recibirán una **constancia digital de participación** emitida por la universidad, siempre que cumplan con un mínimo del 80% de asistencia y las actividades de evaluación.
+
+
+- Prioriza la participación crítica sobre la capacitación técnica
+- Promueve tanto la comprensión estratégica como la acción ciudadana
+- Ofrece una progresión coherente y accesible para una audiencia no especializada
+
+```
 ```
