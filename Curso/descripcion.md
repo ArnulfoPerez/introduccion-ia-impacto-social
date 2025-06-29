@@ -23,7 +23,7 @@ Cada sesión incluye:
 
 El curso está diseñado para personas sin formación técnica previa, pero con interés en entender la IA desde una perspectiva más profunda y crítica. Está dirigido, entre otros, a:
 
-- Estudiantes universitarios o de preparatoria de cualquier área disciplinaria
+- Estudiantes universitarios de nivel medio o superior de cualquier área disciplinaria
 - Profesionales en áreas no técnicas (derecho, comunicación, administración, mercadotecnia, recursos humanos)
 - Personal administrativo o directivo interesado en la adopción estratégica de IA
 - Ciudadanía en general preocupada por los impactos sociales, laborales y éticos de la IA
@@ -45,8 +45,8 @@ La inteligencia artificial es ya parte primordial del tejido estructural que reo
 
 Al finalizar el curso, las y los participantes podrán:
 
-1. Comprender el papel estructurante de la IA en sistemas sociales, económicos, laborales y políticos.
-2. Explorar escenarios futuros mediados por IA, evaluando riesgos, desigualdades y oportunidades.
+1. Comprender el papel de la IA en sistemas sociales, económicos, laborales y políticos.
+2. Explorar escenarios futuros mediados por IA, evaluando riesgos, y oportunidades.
 3. Identificar dilemas éticos, tensiones normativas y desafíos de gobernanza algorítmica.
 4. Analizar críticamente cómo la cultura popular y los discursos tecnopolíticos modelan la percepción pública de la IA.
 5. Participar activamente e informar decisiones individuales, colectivas o profesionales en relación con la IA.
