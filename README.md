@@ -21,7 +21,7 @@ Este curso es ideal para cualquier persona curiosa sobre la IA, incluyendo:
 * **Personal administrativo y directivo** que necesita una visión estratégica de la IA.
 * **Ciudadanos interesados** en los debates sociales, éticos y culturales que la IA genera.
 
-### **[Objetivos de Aprendizaje](./Curso/objetivos_de_aprendizaje.md)**
+### **[Objetivos de Aprendizaje](./Curso/objetivos_de_aprendizaje)**
 
 Al finalizar el curso, serás capaz de:
 
@@ -37,7 +37,7 @@ Al finalizar el curso, serás capaz de:
 
 Hemos organizado este repositorio para que encuentres fácilmente lo que necesitas. Aquí un mapa rápido:
 
-* **[`Curso/`](./Curso/)**: Información general del curso, [descripción detallada, objetivos y temario completo](./Curso/descripcion.md).
+* **[`Curso/`](./Curso/)**: Información general del curso, [descripción detallada, objetivos y temario completo](./Curso/descripcion).
 * **[`Sesiones/`](./Sesiones/)**: Material específico para cada una de las 8 sesiones, incluyendo presentaciones y cuadernillos.
 * **[`Actividades/`](./Actividades/)**: Ejercicios prácticos y dinámicas para reforzar tu aprendizaje.
 * **[`Recursos_Adicionales/`](./Recursos/)**: Un compendio de material de apoyo para profundizar: glosario, guías de referencia comentadas, herramientas recomendadas y más.
