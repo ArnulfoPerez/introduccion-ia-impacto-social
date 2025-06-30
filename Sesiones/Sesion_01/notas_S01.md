@@ -524,6 +524,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [Building and evaluating AI Agents](https://youtu.be/d5EltXhbcfA?si=pNWUI3rsqycJzVB_)
 - [AI Agents, Clearly Explained](https://youtu.be/FwOTs4UxQS4?si=rsvoqgHpwkXSG5Fs)
 - [AI Debates](https://www.youtube.com/@clarifiedmind)
+- [The LLM's RL Revelation We Didn't See Coming](https://youtu.be/z3awgfU4yno?si=BG-bVeUd_pfmv1Bx)
 
 ---
 
