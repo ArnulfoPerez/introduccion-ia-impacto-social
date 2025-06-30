@@ -519,6 +519,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [Video introductorio: ¿Qué es la IA? – EDteam](https://www.youtube.com/watch?v=tA5cinvOU8)
 - [Lee Sedol vs. AlphaGo: What Really Happened in the Match](https://youtu.be/Pd-kOPyVvRc?si=JjwtSGfcmKFhbaL5)
 - [The Problem With ChatGPT, With Gary Marcus](https://youtu.be/T-23eOi8rgA?si=MJ98MLcwyWUnzlDW)
+- [The Simple Macroeconomics of AI](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
 
 ---
 
