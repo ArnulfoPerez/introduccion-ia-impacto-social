@@ -520,6 +520,8 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [Lee Sedol vs. AlphaGo: What Really Happened in the Match](https://youtu.be/Pd-kOPyVvRc?si=JjwtSGfcmKFhbaL5)
 - [The Problem With ChatGPT, With Gary Marcus](https://youtu.be/T-23eOi8rgA?si=MJ98MLcwyWUnzlDW)
 - [The Simple Macroeconomics of AI](https://economics.mit.edu/sites/default/files/2024-04/The%20Simple%20Macroeconomics%20of%20AI.pdf)
+- [Building and evaluating AI Agents](https://youtu.be/d5EltXhbcfA?si=pNWUI3rsqycJzVB_)
+- [AI Agents, Clearly Explained](https://youtu.be/FwOTs4UxQS4?si=rsvoqgHpwkXSG5Fs)
 
 ---
 
