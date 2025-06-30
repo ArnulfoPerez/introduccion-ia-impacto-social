@@ -44,7 +44,7 @@ Hemos organizado este repositorio para que encuentres fácilmente lo que necesit
 
 ---
 
-## [🗓️ Fechas Clave del Curso](./Curso/fechas.md)
+## [🗓️ Fechas Clave del Curso](./Curso/fechas)
 
 ---
 
