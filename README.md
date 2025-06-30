@@ -69,4 +69,4 @@ Este repositorio está pensado para ti. Si tienes sugerencias, encuentras errore
 
 ### **Licencia**
 
-Este proyecto está bajo la licencia [Tu Tipo de Licencia, ej. CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Consulta el archivo [`LICENCIA`](./LICENCIA) para más detalles.
+Este proyecto está bajo la licencia [MIT License](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Consulta el archivo [`LICENCIA`](./LICENCIA) para más detalles.
