@@ -530,7 +530,7 @@ Este repositorio es de lectura abierta, pero si deseas proponer mejoras, ejercic
 
 ## 📄 Licencia
 
-Este contenido se distribuye bajo licencia **CC BY-NC-SA 4.0**. Se permite su uso, adaptación y distribución con fines no comerciales, siempre que se cite al autor original.
+Este contenido se distribuye bajo licencia **MIT**. Se permite su uso, adaptación y distribución con fines no comerciales, siempre que se cite al autor original.
 
 ## ✍️ Preguntas para reflexión final
 
