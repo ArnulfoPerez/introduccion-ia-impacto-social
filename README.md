@@ -52,7 +52,7 @@ Hemos organizado este repositorio para que encuentres fácilmente lo que necesit
 
 1.  **Explora por Sesión:** Dirígete a la carpeta [`Sesiones/`](./Sesiones/) para encontrar los materiales de cada clase.
 2.  **Refuerza tu Aprendizaje:** Revisa las [`Actividades/`](./Actividades/) para practicar los conceptos.
-3.  **Profundiza:** La carpeta [`Recursos_Adicionales/`](./Recursos_Adicionales/) te ofrece glosarios, lecturas recomendadas, videos y más para seguir explorando.
+3.  **Profundiza:** La carpeta [`Recursos_Adicionales/`](./Recursos/) te ofrece glosarios, lecturas recomendadas, videos y más para seguir explorando.
 4.  **Descarga:** Puedes descargar cualquier archivo haciendo clic en él y luego en el botón "Download" (descargar).
 
 ---
