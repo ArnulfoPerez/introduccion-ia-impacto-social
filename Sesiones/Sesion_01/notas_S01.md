@@ -525,6 +525,12 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [AI Agents, Clearly Explained](https://youtu.be/FwOTs4UxQS4?si=rsvoqgHpwkXSG5Fs)
 - [AI Debates](https://www.youtube.com/@clarifiedmind)
 - [The LLM's RL Revelation We Didn't See Coming](https://youtu.be/z3awgfU4yno?si=BG-bVeUd_pfmv1Bx)
+- [El aprendizaje por refuerzo](https://medium.com/me/stats/post/bcc68ae14a50)
+- [¿Programación natural o precisión matemática?](https://medium.com/p/b5e85fed1404)
+- [¿Es blockchain clave para una IA justa?](https://medium.com/p/388c33b5b7b5)
+- [Las Alucinaciones de la IA](https://medium.com/p/53961b406981)
+- [El pensamiento crítico y la explosión informativa](https://medium.com/p/2f94e7525b3e)
+- [El reduccionismo científico](https://medium.com/p/eb07560afdc1)
 
 ---
 
