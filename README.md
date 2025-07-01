@@ -1,3 +1,5 @@
+---
+---
 # 🤖 Curso: Introducción a la Inteligencia Artificial y su Impacto en la Sociedad
 
 ¡Bienvenidos al repositorio oficial del curso **"Introducción a la Inteligencia Artificial y su Impacto en la Sociedad"**!
