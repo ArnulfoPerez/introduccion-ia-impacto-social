@@ -532,6 +532,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [El pensamiento crítico y la explosión informativa](https://medium.com/p/2f94e7525b3e)
 - [El reduccionismo científico](https://medium.com/p/eb07560afdc1)
 - [Processing Perception: Visual Fields and Nervous System Specificity](https://greymattersjournal.org/processing-perception-visual-fields-and-nervous-system-specificity/)
+- [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 
 ---
 
