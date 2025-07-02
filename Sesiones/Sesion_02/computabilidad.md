@@ -44,7 +44,7 @@ Los problemas no computables son recordatorios de que, incluso en la era de la I
 
 - [Halting Problem](https://en.wikipedia.org/wiki/Halting_problem)
 - [Turing & The Halting Problem - Computerphile](https://www.youtube.com/watch?v=macM_MtS_w4)
-- 
+- [La paradoja del barbero](https://matemelga.wordpress.com/2019/07/27/la-paradoja-del-barbero/)
 ---
 
 # Diapositivas Resumen (para Canva)  
