@@ -203,3 +203,4 @@ Video corto: "¿Qué es y cómo funciona la inteligencia artificial?" – EDteam
 - [Autómatas en la historia](https://automata.cps.unizar.es/Historia/Webs/automatas_en_la_historia.htm)
 - [La historia de los autómatas](https://bauldechitiya.blogspot.com/2018/09/la-historia-de-los-automatas.html)
 - [Los primeros autómatas de la historia](https://www.xatakaciencia.com/robotica/los-primeros-automatas-de-la-historia)
+- [Una creación genial: el Ajedrecista Turco, la primera máquina que derrotó al hombre](https://www.clarin.com/viste/creacion-genial-ajedrecista-turco-primera-maquina-derroto-hombre_0_hU3xgi3sm4.html)
