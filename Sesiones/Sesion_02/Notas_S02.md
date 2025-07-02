@@ -199,3 +199,6 @@ Alineamiento ético: tema crítico en entornos abiertos. Se investigan marcos no
 Documental: AlphaGo: The Movie (DeepMind, 2017) 
 
 Video corto: "¿Qué es y cómo funciona la inteligencia artificial?" – EDteam 📎 https://www.youtube.com/watch?v=tA5cinvOU8
+
+- [Autómatas en la historia](https://automata.cps.unizar.es/Historia/Webs/automatas_en_la_historia.htm)
+- [La historia de los autómatas](https://bauldechitiya.blogspot.com/2018/09/la-historia-de-los-automatas.html)
