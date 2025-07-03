@@ -115,4 +115,101 @@ Combina resultados mediante votación ponderada
 ## Referencia clave:
 Khalid et al., "Random Multimodel Deep Learning for Big Data Analysis", IEEE Access (2023)
 
+# 🧠 Comparación de Arquitecturas de Redes Neuronales
+
+## 📊 Tabla Comparativa
+
+| Característica             | RNN (Recurrent Neural Networks)                         | CNN (Convolutional Neural Networks)                           | Fully Connected (DNN)                                         |
+|----------------------------|---------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| **Propósito Principal**     | Procesamiento de datos secuenciales (texto, series de tiempo) | Procesamiento de datos grid-like (imágenes, señales)          | Modelado de relaciones generales en datos estructurados       |
+| **Estructura Típica**       | Capas recurrentes (LSTM, GRU) con bucles temporales     | Capas convolucionales + pooling + fully connected al final    | Capas densas (todas las neuronas conectadas entre sí)        |
+| **Conexiones**              | Recurrentes (salida de cada paso retroalimenta el siguiente) | Filtros locales que recorren la entrada                       | Cada neurona conecta con todas las anteriores                 |
+| **Ventaja Clave**           | Maneja dependencias temporales (contexto en lenguaje)   | Invarianza espacial (reconoce patrones sin importar posición) | Flexibilidad para funciones complejas no lineales             |
+| **Problemas Comunes**       | Vanishing gradients (secuencias largas)                | Requiere muchos datos para entrenar filtros                   | Sobreajuste en datos de alta dimensionalidad                  |
+| **Ejemplo de Aplicación**   | Traducción automática (LSTM/Transformer)                | Clasificación de imágenes (ResNet)                            | Predicción de precios (datos tabulares)                      |
+| **Hiperparámetros Clave**   | Longitud de secuencia, tipo de celda (LSTM/GRU)         | Tamaño de kernel, stride, padding                             | Número de neuronas, función de activación                    |
+| **Uso de Memoria**          | Alto (almacena estados ocultos)                         | Moderado (depende de la profundidad)                          | Alto (por conexiones densas)                                 |
+| **Ejemplo en Keras**        | `LSTM(units=64)`                                       | `Conv2D(filters=32, kernel_size=(3,3))`                       | `Dense(units=128, activation='relu')`                        |
+
+---
+
+## 🔍 Explicación de Cada Arquitectura
+
+### 1. RNN (Redes Recurrentes)
+- Procesan datos secuenciales manteniendo un estado oculto como “memoria”.
+- Usan bucles temporales para comunicar pasos entre sí.
+- Variantes modernas:  
+  - **LSTM**: maneja vanishing gradients con puertas de control.  
+  - **GRU**: versión simplificada pero efectiva.
+- Limitación: costo computacional alto en secuencias largas.
+
+---
+
+### 2. CNN (Redes Convolucionales)
+- Usan **filtros/kernels** para detectar patrones locales.
+- **Pooling** reduce la dimensionalidad.
+- Ventajas: invarianza traslacional, eficiencia por parámetros compartidos.
+- Ejemplo clásico: LeNet-5 para dígitos escritos a mano.
+
+---
+
+### 3. Fully Connected (DNN)
+- Neuronas conectadas a todas las de la capa anterior.
+- Útiles para datos tabulares y clasificación general.
+- Problema: maldición de la dimensionalidad en entradas grandes.
+
+---
+
+## 🧠 ¿Cuándo Usar Cada Una?
+
+| Tipo de Datos            | Arquitectura Recomendada       | Ejemplo                             |
+|--------------------------|--------------------------------|-------------------------------------|
+| Texto / Series de Tiempo | RNN o Transformers             | Análisis de sentimiento             |
+| Imágenes / Señales       | CNN                            | Detección de tumores en radiografías|
+| Datos Tabulares          | Fully Connected (+ regulación) | Predicción de riesgo crediticio     |
+
+---
+
+# 🧠 Diagrama Conceptual de Arquitecturas Neuronales
+
+## 🔁 RNN (Redes Recurrentes)
+
+Flujo de datos:
+[X₁] → [X₂] → [X₃]   (Entrada secuencial)
+
+Estados ocultos (memoria):
+ ↑      ↑      ↑
+ h₀ →  h₁ →  h₂   (Estado oculto que se actualiza en cada paso)
+
+> Cada paso depende del anterior: útil para secuencias temporales o texto
+
+---
+
+## 🧭 CNN (Redes Convolucionales)
+
+[Filtros] → [Pooling] → [Fully Connected]
+    ↓          ↓
+Características locales → Representación global
+
+> Detectan patrones espaciales (ej: bordes, texturas) y los resumen para tomar decisiones
+
+---
+
+## 🟦 Fully Connected (DNN)
+
+[Capa 1] → [Capa 2] → [Capa 3] → [Salida]
+
+> Todas las neuronas están conectadas con todas las de la capa anterior
+
+> Útil para datos tabulares o como capas finales en arquitecturas híbridas
+
+
+# Conclusión:
+
+- Las CNN dominan en visión por computadora.
+
+- Las RNN (y sus evoluciones como Transformers) son clave para lenguaje.
+
+- Las Fully Connected son útiles para problemas simples o como capas finales en modelos híbridos.
+
 
