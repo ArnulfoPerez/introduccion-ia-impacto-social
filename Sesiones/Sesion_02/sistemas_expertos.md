@@ -119,3 +119,15 @@ Para líderes corporativos y gestores de conocimiento, el reto es el mismo que e
 - De la codificación a la co-evolución humano-máquina
 
 ---
+
+timeline
+  -  1956 : Logic Theorist (Newell & Simon)  
+  -  1974 : Frame theory (Minsky)  
+  - 1980 : Expert systems boom  
+  -  2020 : Neuro-symbolic revival
+
+## Referencias
+
+- Minsky, The Society of Mind (1986)
+- Pearl & Mackenzie, The Book of Why (2018)
+- Bengio et al., Towards Causal Representation Learning (2021)
