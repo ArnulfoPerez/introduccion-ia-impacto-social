@@ -74,4 +74,7 @@ En 2025, la IA no es "una sola cosa", sino un conjunto de herramientas seleccion
 ## Referencias recomendadas
 
 - [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A?si=Z5OMDxkLhmlIRO1R)
-- 
+- [AlphaGo - The Movie | Full award-winning documentary](https://youtu.be/WXuK6gekU1Y?si=zc2FPQadoreKA7uP)
+- [Debates actuales sobre la naturaleza de la conciencia](https://youtu.be/2cvkyU0YTIU?si=C9KZkuvEdEFcrvfE)
+- [La teoría de la información integrada de Giulio Tononi](https://youtu.be/zovH3vkxneU?si=kwwhCLvNKeNTGI9C)
+- [LA TEORÍA DE LA INFORMACIÓN INTEGRADA Φ - ¿Se puede estudiar la consciencia matemáticamente?](https://youtu.be/g9kKcpgU-qo?si=YUPEi-B25kjtCDKt)
