@@ -1,3 +1,5 @@
+---
+---
 # Taxonomía de la Inteligencia Artificial en 2025: Casos de Uso y Ciclo de Vida
 
 ## Introducción: ¿Qué es la IA hoy?
@@ -75,6 +77,7 @@ En 2025, la IA no es "una sola cosa", sino un conjunto de herramientas seleccion
 
 - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
 - [22. Gradient Descent: Downhill to a Minimum](https://youtu.be/AeRwohPuUHQ?si=8QxY9UtU1LMExAFq)
+- [object detection | cat detection](https://youtu.be/pSwSQdDgRtI?si=HjesP3TWQ1SQ2O-D)
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book/)
 
