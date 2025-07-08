@@ -73,8 +73,18 @@ En 2025, la IA no es "una sola cosa", sino un conjunto de herramientas seleccion
 
 ## Referencias recomendadas
 
-- [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A?si=Z5OMDxkLhmlIRO1R)
+- [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+- [22. Gradient Descent: Downhill to a Minimum](https://youtu.be/AeRwohPuUHQ?si=8QxY9UtU1LMExAFq)
+
+- [Book: Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book/)
+
+- [Las creaciones con IA no tienen derecho de autor en México](https://www.xataka.com.mx/robotica-e-ia/creaciones-ia-no-tienen-derecho-autor-mexico-suprema-corte-establece-que-todo-generado-dominio-publico)
+
+
+- [Google CEO DESTROYS AI Hype with Brutal Honesty](https://www.youtube.com/live/U0O2M9lK-2U?si=BwQe2rKofheO86qw)
 - [AlphaGo - The Movie | Full award-winning documentary](https://youtu.be/WXuK6gekU1Y?si=zc2FPQadoreKA7uP)
 - [Debates actuales sobre la naturaleza de la conciencia](https://youtu.be/2cvkyU0YTIU?si=C9KZkuvEdEFcrvfE)
 - [La teoría de la información integrada de Giulio Tononi](https://youtu.be/zovH3vkxneU?si=kwwhCLvNKeNTGI9C)
+- [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A?si=Z5OMDxkLhmlIRO1R)
+- [Functionalism](https://www.youtube.com/watch?v=rd8sITBnijg)
 - [LA TEORÍA DE LA INFORMACIÓN INTEGRADA Φ - ¿Se puede estudiar la consciencia matemáticamente?](https://youtu.be/g9kKcpgU-qo?si=YUPEi-B25kjtCDKt)
