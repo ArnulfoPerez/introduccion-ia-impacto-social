@@ -1,5 +1,5 @@
-___
-___
+---
+---
 # Hardware Especializado para IA: Guía Completa
 
 ## 1. GPUs (Unidades de Procesamiento Gráfico)
