@@ -2,6 +2,121 @@
 ---
 # Fundamentos Conceptuales del Machine Learning:  
 
+## Taxonomía Principal del ML
+```mermaid
+graph TD
+    A[Machine Learning] --> B[Supervised Learning]
+    A --> C[Unsupervised Learning]
+    A --> D[Reinforcement Learning]
+    B --> E[Classification]
+    B --> F[Regression]
+    C --> G[Clustering]
+    C --> H[Dimensionality Reduction]
+```
+## 1. Aprendizaje Supervisado (Supervised Learning)
+### Definición
+Métodos que aprenden a partir de **datos etiquetados** (ejemplo: fotos de gatos y perros previamente clasificadas por humanos).
+
+### Subtipos Principales
+| Tipo           | Característica                          | Ejemplo de Aplicación           |
+|----------------|----------------------------------------|----------------------------------|
+| **Clasificación** | Predice categorías discretas           | Detección de spam (Sí/No)       |
+| **Regresión**    | Predice valores continuos              | Predecir precio de viviendas     |
+
+**Ejemplo de código (Python - Scikit-learn)**:
+```python
+from sklearn.ensemble import RandomForestClassifier
+modelo = RandomForestClassifier()
+modelo.fit(X_entrenamiento, y_etiquetas)
+```
+
+## 2. 🧠 Aprendizaje No Supervisado
+
+### 📘 Definición
+
+El **aprendizaje no supervisado** es un enfoque de la inteligencia artificial que busca encontrar **estructuras, patrones o agrupamientos** dentro de los datos sin necesidad de etiquetas previas.  
+El sistema explora los datos por sí mismo, identificando relaciones ocultas o distribuciones relevantes.
+
+---
+
+### 🔍 Aplicaciones Clave
+
+#### 📊 Clustering (Agrupamiento)
+
+Consiste en dividir los datos en grupos (clusters) que sean internamente coherentes y externamente distintos.  
+Cada grupo se forma en función de la similitud entre las muestras.
+
+#### ⚙️ Objetivo matemático típico (K-means):
+
+$$
+\text{minimizar } \sum_{i=1}^k \sum_{x \in C_i} ||x - \mu_i||^2
+$$
+
+> Donde:
+> - \( C_i \) es el conjunto de puntos en el cluster \( i \)
+> - \( \mu_i \) es el centroide del cluster \( i \)
+> - Se busca que cada punto esté lo más cercano posible a su centroide
+
+---
+
+### 🧪 Otros ejemplos de aprendizaje no supervisado
+
+- **Reducción de dimensionalidad** (PCA, t-SNE)
+- **Modelado de distribuciones** (Autoencoders, GANs)
+- **Segmentación de mercado** en negocios
+- **Análisis de comportamiento** en datos de usuarios
+
+## 3. Aprendizaje por Refuerzo (RL)
+### Características
+- Agente aprende mediante recompensas/penalizaciones
+- Interactúa con un entorno dinámico
+
+Ejemplo icónico:
+
+```mermaid
+graph LR
+    Agente-->|Acción| Entorno
+    Entorno-->|Estado| Agente
+    Entorno-->|Recompensa| Agente
+```
+AlphaGo: Aprendió a jugar Go superando a campeones humanos
+
+## Relación con Deep Learning (DL)
+Intersección Clave
+```mermaid
+graph TD
+    ML[Machine Learning] --> DL[Deep Learning]
+    DL --> CNN[Redes Convolucionales: Visión]
+    DL --> RNN[Redes Recurrentes: Series Temporales]
+    DL --> RL[Deep Reinforcement Learning]
+```
+
+## 🔍 Diferencias clave: ML Tradicional vs Deep Learning
+
+| Característica              | ML Tradicional       | Deep Learning             |
+|-----------------------------|----------------------|---------------------------|
+| Extracción de features      | Manual               | Automática                |
+| Rendimiento con Big Data    | Limitado             | Excelente                 |
+| Interpretabilidad           | Alta                 | Baja (Black Box)          |
+
+---
+
+## 🤖 Ejemplo Combinado: ChatGPT
+
+ChatGPT utiliza una combinación de enfoques de aprendizaje:
+
+- **DL (Deep Learning):**  
+  Arquitectura basada en Transformers para procesar lenguaje a escala masiva.
+
+- **RL (Reinforcement Learning):**  
+  Fine-tuning con RLHF (*Reinforcement Learning from Human Feedback*) para mejorar calidad de respuestas.
+
+- **Supervisado:**  
+  Entrenamiento inicial usando textos etiquetados para aprender lenguaje y tareas específicas.
+
+---
+
+👉 Esta combinación permite que el modelo aprenda patrones complejos, se ajuste con retroalimentación humana y responda con coherencia contextual.
 
 ---
 
