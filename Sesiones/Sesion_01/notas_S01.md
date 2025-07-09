@@ -533,6 +533,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [El reduccionismo científico](https://medium.com/p/eb07560afdc1)
 - [Processing Perception: Visual Fields and Nervous System Specificity](https://greymattersjournal.org/processing-perception-visual-fields-and-nervous-system-specificity/)
 - [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
+- [CURSO DE IA GRATIS - Día 1: Domina ChatGPT y el Prompt Engineering](https://www.youtube.com/live/IWVcMLG0HBs?si=DPQ5Ji5oMEKbZb8C)
 
 ---
 
