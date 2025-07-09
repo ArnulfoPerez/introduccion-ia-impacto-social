@@ -85,6 +85,12 @@ Solución: Regularización (L₁/L₂) como *"penalización de la norma"*
 ## Referencias
 
 - [Análisis de la regresión](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_la_regresi%C3%B3n)
+- [The weirdest paradox in statistics (and machine learning)](https://youtu.be/cUqoHQDinCM?si=GaZyyOXAfqYvjjK5)
+- [Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)](https://youtu.be/w8yWXqWQYmU?si=XqhzbDpkBCDQIaei)
+- [The Most Important Algorithm in Machine Learning](https://youtu.be/SmZmBKc7Lrs?si=G43ctRXnQ-jhMT8Z)
+- [AI can't cross this line and we don't know why](https://youtu.be/5eqRuVp65eY?si=Q87xCS0dQ0492Vyf)
+- [Demis Hassabis and Veritasium's Derek Muller talk AI, AlphaFold and human intelligence](https://youtu.be/Fe2adi-OWV0?si=gEJX9avd0iX1WzLr)
+  
 ---
 
 ## Diapositivas para Canva (Resumen Visual)
