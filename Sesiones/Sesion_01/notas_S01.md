@@ -535,6 +535,14 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 - [CURSO DE IA GRATIS - Día 1: Domina ChatGPT y el Prompt Engineering](https://www.youtube.com/live/IWVcMLG0HBs?si=DPQ5Ji5oMEKbZb8C)
 - [Math's Fundamental Flaw](https://youtu.be/HeQX2HjkcNo?si=6Tfvf7UviFzgrSnP)
+- [Computers Killed Chess. This is Proof](https://youtu.be/pfBIwfP9b40?si=-4POvaTgaNfedI4A)
+- [The Halting Problem - An Impossible Problem to Solve](https://youtu.be/t37GQgUPa6k?si=-NHcl8MMCVtf09yw)
+- [How AI pioneer Doug Hofstadter wrote Gödel, Escher, Bach](https://youtu.be/JYZcHSqqxtg?si=xs84sAiookTDTTXz)
+- [Humanity’s Final Goal | Isaac Asimov’s The Last Question](https://youtu.be/BmPcWuv6Mcw?si=LuPSutXFro7f-Nab)
+- [The F=ma of Artificial Intelligence [Backpropagation]](https://youtu.be/VkHfRKewkWw?si=qaBQTL20sWs-8Xjr)
+- [The Misconception that Almost Stopped AI [How Models Learn Part 1]](https://youtu.be/NrO20Jb-hy0?si=7i5XFsxzaMwH-zhd)
+- [How DeepSeek Rewrote the Transformer [MLA]](https://youtu.be/0VLAoVGf_74?si=bYNyKtaabk1KhFOd)
+- [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=CGX6YnxoGySjAz1Y)
 
 ---
 
