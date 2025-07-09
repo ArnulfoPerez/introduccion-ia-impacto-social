@@ -2,7 +2,6 @@
 ---
 # Los Fundamentos Matemáticos del Deep Learning:  
 ## Un Enfoque Minimalista para Profesionales de IA  
-***(En el espíritu de Gilbert Strang & Grant Sanderson)***  
 
 ---
 
@@ -10,20 +9,20 @@
 - **Tesis central**:  
   - *"El deep learning es optimización diferencial en espacios n-dimensionales para encontrar patrones estadísticos (tendencia + dispersión)"*.  
 - **Pilares modernos**:  
-  ```python  
-  # Tres componentes críticos (como una SVD descompuesta):  
+   
+  # Tres componentes críticos:  
   1. Datos masivos → Espacios densos (ley de grandes números).  
   2. Hardware especializado (GPUs/TPUs) → Cálculo de gradientes a escala.  
   3. Feature engineering automático → Mapeo φ: ℝᵐ → ℝⁿ (n >> m).
-```
+  
 
-## II. Los 3 Bloques Fundamentales (Strang-Style)
+## II. Los 3 Bloques Fundamentales
 
 ### 1. Regresión & Clasificación: Ajuste de Curvas en ℝⁿ
 **Objetivo**:  
 Minimizar `‖y - f(x;θ)‖²` (norma L₂ del error).
 
-**Ejemplo visual (Sanderson-style)**:
+**Ejemplo visual**:
 - Regresión lineal: "Hiperplano de mejor ajuste" en ℝⁿ
 - Clasificación: "Superficies de decisión" (ej: sigmoide en logística)
 
@@ -35,21 +34,16 @@ Minimizar `‖y - f(x;θ)‖²` (norma L₂ del error).
 ### 2. Optimización: El Algoritmo de "Learning"
 **Gradiente Descendente**:
 ```math
-θ_{t+1} = θ_t - η∇L(θ)  # (η = learning rate, ∇L = gradiente)
+θ_{t+1} = θ_t - η∇L(θ)   
 ```
+(η = learning rate, ∇L = gradiente)
 
-## Analogía Física (Estilo Sanderson)
+## Analogía Física
 > *"Imagina una bola rodando en un paisaje montañoso n-dimensional (la función de pérdida)"*
 
 ## 3. Overfitting vs. Generalización: El Dilema del Ajuste
 
-### Teorema Fundamental (Estilo Strang)
-**"El overfitting ocurre cuando dim(θ) >> dim(datos útiles)"** →  
 Solución: Regularización (L₁/L₂) como *"penalización de la norma"*
-
-### Visualización
-- *"Modelo sobreajustado = curva que pasa por todos los puntos (ruido incluido)"*  
-  → [Gráfico interactivo en 3D recomendado]
 
 ---
 
@@ -79,16 +73,18 @@ Solución: Regularización (L₁/L₂) como *"penalización de la norma"*
 
 ---
 
-## V. Conclusiones (Estilo Strang & Sanderson)
+## V. Conclusiones 
 
 1. **Deep Learning ≈ Ajuste de curvas diferenciables en ℝⁿ**  
 2. **Generalización requiere controlar la "norma" del modelo** (regularización)  
 3. **Hardware acelera exploración de espacios de parámetros**  
 4. **Datos son el "éter" donde los patrones existen** (sin densidad, no hay magia)  
 
-> *"Entender IA es dominar cómo las derivadas parciales (∇) revelan estructura en el caos n-dimensional"*  
-> — Firma hipotética de Strang & Sanderson
+> *"Entender IA es dominar como las derivadas parciales (∇) revelan estructura en el caos n-dimensional"*  
 
+## Referencias
+
+- [Análisis de la regresión](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_la_regresi%C3%B3n)
 ---
 
 ## Diapositivas para Canva (Resumen Visual)
