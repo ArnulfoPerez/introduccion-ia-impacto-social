@@ -225,4 +225,5 @@ graph TB
 - [An Introduction to Gradient Descent and Line Search Methods](https://thatdatatho.com/introduction-gradient-descent-line-search/)
 - [Descenso por gradiente (Gradient descent)](https://turing.iimas.unam.mx/~ivanvladimir/posts/gradient_descent/)
 - [How to understand gradient descent?](https://halfrost.me/post/how-to-understand-gradient-descent/)
+- [Backpropagation Algorithm | Neural Networks](https://youtu.be/sIX_9n-1UbM?si=lKlap5Zc_w02fUYH)
 - [A basic explanation how the gradient descent is determined during back-propagation](https://medium.com/@El_Fares_Anass/a-basic-explanation-how-the-gradient-descent-is-determined-during-back-propagation-864376f8f1a4)
