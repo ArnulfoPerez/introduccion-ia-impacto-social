@@ -331,4 +331,13 @@ flowchart TB
 
 ## Referencias
 
+- [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=L2lAe6bGYfu9Rsk5)
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=lrA5xwqBE545vn84)
+- [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=sp9Z0hhkJnbMGNoo)
+- [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=ahYep9PICtoLgp1w)
+- [Backpropagation, intuitively | Deep Learning Chapter 3](https://youtu.be/Ilg3gGewQ5U?si=oRU1RsnKtB372m3A)
+- [Backpropagation calculus | Deep Learning Chapter 4](https://youtu.be/tIeHLnjs5U8?si=1Quw-Qf75209i39f)
+- [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://youtu.be/wjZofJX0v4M?si=77XJr32TetcVtaOi)
+- [Attention in transformers, step-by-step | Deep Learning Chapter 6](https://youtu.be/eMlx5fFNoYc?si=7lFIzg0vqatE1NS2)
+- [How might LLMs store facts | Deep Learning Chapter 7](https://youtu.be/9-Jl0dxWQs8?si=eKyEA75cClQp30Ry)
+- [Neural networks 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
