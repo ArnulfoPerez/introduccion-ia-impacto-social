@@ -534,6 +534,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [Processing Perception: Visual Fields and Nervous System Specificity](https://greymattersjournal.org/processing-perception-visual-fields-and-nervous-system-specificity/)
 - [AlexNet](https://en.wikipedia.org/wiki/AlexNet)
 - [CURSO DE IA GRATIS - Día 1: Domina ChatGPT y el Prompt Engineering](https://www.youtube.com/live/IWVcMLG0HBs?si=DPQ5Ji5oMEKbZb8C)
+- [Math's Fundamental Flaw](https://youtu.be/HeQX2HjkcNo?si=6Tfvf7UviFzgrSnP)
 
 ---
 
