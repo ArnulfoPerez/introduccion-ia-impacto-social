@@ -220,3 +220,9 @@ graph TB
     C -->|∂ℒ/∂B| B
     B -->|∂ℒ/∂A| A
 ```
+## Referencias
+
+- [An Introduction to Gradient Descent and Line Search Methods](https://thatdatatho.com/introduction-gradient-descent-line-search/)
+- [Descenso por gradiente (Gradient descent)](https://turing.iimas.unam.mx/~ivanvladimir/posts/gradient_descent/)
+- [How to understand gradient descent?](https://halfrost.me/post/how-to-understand-gradient-descent/)
+- [A basic explanation how the gradient descent is determined during back-propagation](https://medium.com/@El_Fares_Anass/a-basic-explanation-how-the-gradient-descent-is-determined-during-back-propagation-864376f8f1a4)
