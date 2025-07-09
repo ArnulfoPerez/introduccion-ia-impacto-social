@@ -328,3 +328,7 @@ flowchart TB
     V --> MatMul2
     MatMul2 --> Output[Salida contextual]
 ```
+
+## Referencias
+
+- [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=lrA5xwqBE545vn84)
