@@ -83,6 +83,7 @@ En 2025, la IA no es "una sola cosa", sino un conjunto de herramientas seleccion
 
 - [Las creaciones con IA no tienen derecho de autor en México](https://www.xataka.com.mx/robotica-e-ia/creaciones-ia-no-tienen-derecho-autor-mexico-suprema-corte-establece-que-todo-generado-dominio-publico)
 - [Terence Tao at IMO 2024: AI and Mathematics](https://youtu.be/e049IoFBnLA?si=_V6-75fduMOuWU0T)
+- [‘Godfather of AI’ predicts it will take over the world | LBC](https://youtu.be/vxkBE23zDmQ?si=yfRfhZ-hfqqzAdwZ)
 
 
 - [Google CEO DESTROYS AI Hype with Brutal Honesty](https://www.youtube.com/live/U0O2M9lK-2U?si=BwQe2rKofheO86qw)
