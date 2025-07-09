@@ -193,3 +193,4 @@ Penaliza parámetros demasiado grandes
 ## Referencias
 
 - [Análisis de la regresión](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_la_regresi%C3%B3n)
+- [All Machine Learning algorithms explained in 17 min](https://youtu.be/E0Hmnixke2g?si=d8TKXwt5t3kZcY8q)
