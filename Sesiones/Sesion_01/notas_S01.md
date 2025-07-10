@@ -515,7 +515,8 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 
 ---
 
-- [Documental: AlphaGo (DeepMind, 2017)](https://www.youtube.com/watch?v=WXuK6gekU1Y)  
+- [Documental: AlphaGo (DeepMind, 2017)](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+- [GROK 4 SURPRISE! Now... The SMARTEST AI ever created](https://youtu.be/kIpgpTQkLdg?si=M3iIm57EWlzkYbjz)
 - [Video introductorio: ¿Qué es la IA? – EDteam](https://www.youtube.com/watch?v=tA5cinvOU8)
 - [Lee Sedol vs. AlphaGo: What Really Happened in the Match](https://youtu.be/Pd-kOPyVvRc?si=JjwtSGfcmKFhbaL5)
 - [The Problem With ChatGPT, With Gary Marcus](https://youtu.be/T-23eOi8rgA?si=MJ98MLcwyWUnzlDW)
