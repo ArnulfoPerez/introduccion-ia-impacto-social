@@ -96,6 +96,7 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 - **Agua**: Necesidad de 500 millones de m³ anuales para refrigeración
 
 ### Casos Específicos
+
 | País       | Consumo Actual (TWh) | Proyección 2030 (TWh) | % Energía Nacional |
 |------------|----------------------|-----------------------|--------------------|
 | EE.UU.     | 200                  | 350                   | 8%                 |
