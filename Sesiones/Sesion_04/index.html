@@ -1,0 +1,86 @@
+---
+---
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="description" content="Introducción a la Inteligencia Artificial y su Impacto en la Sociedad">
+  <title>IA y Sociedad - Sesión 4</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+      color: #333;
+    }
+
+    header {
+      background: #24292e;
+      color: #fff;
+      padding: 1em 2em;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.8em;
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin-top: 0.5em;
+      display: flex;
+      gap: 1.5em;
+    }
+
+    nav ul li a {
+      color: #9fc9f3;
+      text-decoration: none;
+    }
+
+    main {
+      padding: 2em;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+    }
+
+    section {
+      margin-bottom: 2em;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      background: #eaeaea;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Introducción a la Inteligencia Artificial y su Impacto en la Sociedad</h1>
+    {% include navbar.html %}
+
+  </header>
+
+  <main>
+    {% include bienvenida.html %}
+
+    <section>
+      <h2>📚 Sesión 3</h2>
+      <ul>
+        <li><a href="https://arnulfoperez.github.io/introduccion-ia-impacto-social/Sesiones/Sesion_03/notas_S03">Notas de la sesión 3</a></li>
+        <li><a href="https://arnulfoperez.github.io/introduccion-ia-impacto-social/Sesiones/Sesion_03/sesion_S03.pptx">Presentación de la sesión 3</a></li>
+      </ul>
+    </section>
+
+    {% include instructor.html %}
+  </main>
+
+  {% include footer.html %}
+</body>
+</html>
