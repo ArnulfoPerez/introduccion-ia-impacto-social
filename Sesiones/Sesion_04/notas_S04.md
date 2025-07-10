@@ -4,17 +4,17 @@
 
 ### Principales Empresas y Riesgos
 - **Google/DeepMind**:
-  - Controla el 90% de las búsquedas web ([StatCounter, 2023](https://gs.statcounter.com/search-engine-market-share))
-  - Su modelo Gemini (ex-Bard) compite con ChatGPT ([Google AI Blog, 2024](https://blog.google/technology/ai/))
+  - Controla el 90% de las búsquedas web 
+  - Su modelo Gemini (ex-Bard) compite con ChatGPT 
 
 - **OpenAI (aliada a Microsoft)**:
-  - GPT-4 usado en 48% de aplicaciones empresariales ([Synergy Research, 2024](https://www.synergyresearchgroup.com))
+  - GPT-4 usado en 48% de aplicaciones empresariales 
 
 - **Amazon AWS**:
-  - Domina el 34% del mercado de cloud computing ([Canalys, 2023](https://www.canalys.com))
+  - Domina el 34% del mercado de cloud computing 
 
 **Riesgo clave**:
-- 5 empresas controlan el 80% de la infraestructura digital global ([UNCTAD, 2023](https://unctad.org))
+- 5 empresas controlan el 80% de la infraestructura digital global
 
 ## 2. Hardware Especializado en IA
 
@@ -24,41 +24,32 @@
 | GPUs       | NVIDIA (H100) | 85%   | 700W por unidad |
 | TPUs       | Google       | 5%    | 30% más eficientes que GPUs |
 
-**Fuentes**:
-- Consumo energético: [IEEE Spectrum, 2024](https://spectrum.ieee.org/ai-hardware)
-- Cuotas de mercado: [Top500, 2023](https://www.top500.org)
 
 ## 3. Impacto Laboral (OCDE y BM)
 
 ### Cifras Clave
-- **14% de empleos en riesgo** en OCDE vs **32%** en economías emergentes ([Banco Mundial, 2023](https://www.worldbank.org/en/topic/digitaldevelopment/brief/the-future-of-work))
-- **97 millones de nuevos roles** para 2025 ([WEF Future of Jobs, 2023](https://www.weforum.org/reports/the-future-of-jobs-report-2023)), pero:
-  - Solo el 40% de trabajadores tiene acceso a capacitación en IA ([OCDE, 2024](https://www.oecd.org/ai))
+- **14% de empleos en riesgo** en OCDE vs **32%** en economías emergentes 
+- **97 millones de nuevos roles** para 2025, pero:
+  - Solo el 40% de trabajadores tiene acceso a capacitación en IA
 
 ## 4. Amenazas a la Democracia
 
 ### Estudios de Caso
 - **Microtargeting político**:
-  - 87% de campañas electorales usan IA para publicidad ([Pew Research, 2024](https://www.pewresearch.org))
+  - 87% de campañas electorales usan IA para publicidad
 - **Deepfakes en elecciones**:
-  - +400% de videos falsos en 2024 vs 2020 ([EU DisinfoLab, 2024](https://www.disinfo.eu))
+  - +400% de videos falsos en 2024 vs 2020 
 
 ## 5. Estrategias de Mitigación
 
 ### Acciones Comprobadas
 - **UE Digital Markets Act (DMA)**:
-  - Obliga a gigantes tech a permitir interoperabilidad ([Comisión Europea, 2024](https://digital-strategy.ec.europa.eu/en/policies/digital-markets-act))
+  - Obliga a gigantes tech a permitir interoperabilidad 
 - **Educación digital**:
-  - Finlandia redujo un 60% la susceptibilidad a fake news con su programa escolar ([Gov. Finlandia, 2023](https://julkaisut.valtioneuvosto.fi))
+  - Finlandia redujo un 60% la susceptibilidad a fake news con su programa escolar 
 
 ## Conclusión
 La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabetización digital masiva. Los datos muestran que sin intervención, amplificará desigualdades existentes.
-
-**Referencias adicionales**:
-- Impacto ambiental: [IEA Data Centres Report 2024](https://www.iea.org/reports/data-centres-and-data-transmission-networks)
-- Sesgos algorítmicos: [MIT Study on Facial Recognition, 2023](https://www.technologyreview.com/2023/07/05/1075885)
-
-*Última actualización: Julio 2024 - Datos verificados con reportes oficiales.*
 
 # Análisis del Consumo Energético y Hídrico en Servicios Web e IA
 
@@ -67,7 +58,7 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 ### Energía
 - **Global (2023)**:
   - 460 TWh/año (~2% de la electricidad mundial)
-  - Equivale al consumo de Alemania ([IEA, 2023](https://www.iea.org/reports/data-centres-and-data-transmission-networks))
+  - Equivale al consumo de Alemania
 - **EE.UU.**:
   - 200 TWh/año (43% del total global)
 - **México**:
@@ -86,7 +77,6 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 | Tiempo Procesamiento  | 0.1 segundos                  | 2 segundos                       | 20x          |
 | Huella Hídrica        | Despreciable                  | 50 ml (estimado)                 | ∞            |
 
-*Fuente: [MIT Energy Initiative, 2024](https://energy.mit.edu/research/ai-energy/)*
 
 ## 3. Consumo por Consulta de Chatbots
 
@@ -97,7 +87,6 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 | Gemini 1.5            | 0.003 kWh        | 1.8g            | 75        |
 | LLaMA 2 (7B)          | 0.001 kWh        | 0.6g            | 25        |
 
-*Nota: Datos extrapolados de [Stanford AI Index 2024](https://aiindex.stanford.edu/report/)*
 
 ## 4. Proyecciones para 2030
 
@@ -112,7 +101,6 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 | EE.UU.     | 200                  | 350                   | 8%                 |
 | México     | 8                    | 25                    | 5%                 |
 
-*Fuente: [UNAM-CEIICH, 2024](http://www.ceiich.unam.mx/)*
 
 ## 5. Tendencias Críticas
 
@@ -141,34 +129,29 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 ---
 
 **Referencias Clave**:
-1. [IEA Data Centres Report 2024](https://www.iea.org/reports/data-centres-and-data-transmission-networks)
-2. [Google Environmental Report 2023](https://sustainability.google/reports/)
-3. [UNAM-CEIICH Study on Mexican Data Centers](http://www.ceiich.unam.mx/)
-4. [Stanford AI Index 2024 - Energy Chapter](https://aiindex.stanford.edu/report/)
-
-*Documento generado el 10/Jul/2024 - Actualizado con los últimos datos disponibles*
+1. [Google Environmental Report 2023](https://sustainability.google/reports/)
 
 # Análisis del Uso Continuo de Biometría por Gobiernos e Instituciones: Riesgos para la Privacidad y Libertad
 
 ## 1. Expansión Global de la Vigilancia Biométrica
 
 ### Tendencias Actuales (2024)
-- **78 países** han implementado sistemas biométricos a escala nacional ([Amnesty International, 2023](https://www.amnesty.org/en/documents/pol30/6420/2023/en/))
-- **Mercado global**: $85 mil millones (crecimiento anual del 18% desde 2020) ([World Bank, 2024](https://www.worldbank.org/en/topic/digitaldevelopment/brief/digital-id))
+- **78 países** han implementado sistemas biométricos a escala nacional 
+- **Mercado global**: $85 mil millones (crecimiento anual del 18% desde 2020) 
 
 ## 2. Casos de Estudio por País
 
 ### México
 | Sistema       | Cobertura    | Riesgos Documentados |
 |--------------|-------------|----------------------|
-| INE (Iris)   | 89M adultos | Filtración de 2022 expuso 65M registros ([Animal Político](https://www.animalpolitico.com)) |
-| C4/Policía   | CDMX/MTY    | Uso discriminatorio contra jóvenes ([Art19, 2023](https://articulo19.org)) |
+| INE (Iris)   | 89M adultos | Filtración de 2022 expuso 65M registros  |
+| C4/Policía   | CDMX/MTY    | Uso discriminatorio contra jóvenes  |
 
 ### Estados Unidos
 | Sistema       | Cobertura    | Controversias |
 |--------------|-------------|---------------|
-| Clear (aeropuertos) | 15M usuarios | Datos vendidos a terceros ([EPIC, 2024](https://epic.org)) |
-| Face Recognition (FBI) | 50% adultos | 35% falsos positivos en minorías ([MIT Study](https://www.technologyreview.com/2023/07/05/1075885)) |
+| Clear (aeropuertos) | 15M usuarios | Datos vendidos a terceros  |
+| Face Recognition (FBI) | 50% adultos | 35% falsos positivos en minorías |
 
 ## 3. Riesgos Fundamentales
 
