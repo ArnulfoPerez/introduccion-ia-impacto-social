@@ -1,3 +1,5 @@
+---
+---
 # El Benchmark ARC: Evaluando el Razonamiento Auténtico en IA
 
 ## ¿Qué es el Benchmark ARC?
