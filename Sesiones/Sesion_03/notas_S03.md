@@ -83,12 +83,12 @@ En 2025, la IA no es "una sola cosa", sino un conjunto de herramientas seleccion
 
 - [Las creaciones con IA no tienen derecho de autor en México](https://www.xataka.com.mx/robotica-e-ia/creaciones-ia-no-tienen-derecho-autor-mexico-suprema-corte-establece-que-todo-generado-dominio-publico)
 - [Terence Tao at IMO 2024: AI and Mathematics](https://youtu.be/e049IoFBnLA?si=_V6-75fduMOuWU0T)
-- [‘Godfather of AI’ predicts it will take over the world | LBC](https://youtu.be/vxkBE23zDmQ?si=yfRfhZ-hfqqzAdwZ)
+- [‘Godfather of AI’ predicts it will take over the world](https://youtu.be/vxkBE23zDmQ)
 - [François Chollet: How We Get To AGI](https://youtu.be/5QcCeSsNRks?si=nwTEd3O2YQ6mLm8h)
 
 
 - [Google CEO DESTROYS AI Hype with Brutal Honesty](https://www.youtube.com/live/U0O2M9lK-2U?si=BwQe2rKofheO86qw)
-- [AlphaGo - The Movie | Full award-winning documentary](https://youtu.be/WXuK6gekU1Y?si=zc2FPQadoreKA7uP)
+- [AlphaGo - The Movie](https://youtu.be/WXuK6gekU1Y)
 - [Debates actuales sobre la naturaleza de la conciencia](https://youtu.be/2cvkyU0YTIU?si=C9KZkuvEdEFcrvfE)
 - [La teoría de la información integrada de Giulio Tononi](https://youtu.be/zovH3vkxneU?si=kwwhCLvNKeNTGI9C)
 - [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A?si=Z5OMDxkLhmlIRO1R)
