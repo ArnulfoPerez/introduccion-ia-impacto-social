@@ -217,9 +217,6 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 ---
 
 **Referencias Clave**:
-1. [Amnesty - Ban the Scan (2023)](https://www.amnesty.org/en/latest/campaigns/2023/03/ban-the-scan/)
-2. [World Bank - Digital ID Systems (2024)](https://www.worldbank.org/en/topic/digitaldevelopment/brief/digital-id)
-3. [OECD Guidelines on AI (2024)](https://oecd.ai/en/ai-principles)
-4. [HRW - China Social Credit System (2023)](https://www.hrw.org/report/2023/03/28/your-score-decides-your-future/chinas-social-credit-system)
-
+1. [OECD Guidelines on AI (2024)](https://oecd.ai/en/ai-principles)
+  
 *Documento actualizado al 15/Jul/2024 - Datos verificados con fuentes primarias*
