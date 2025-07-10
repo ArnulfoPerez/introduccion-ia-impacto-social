@@ -332,6 +332,8 @@ flowchart TB
 ## Referencias
 
 - [Large Language Models explained briefly](https://youtu.be/LPZh9BOjkQs?si=L2lAe6bGYfu9Rsk5)
+- [Mathematics of LLMs, Explained in Everyday Language](https://youtu.be/1WHaFWMMXLI?si=4Wp3L2V2mazgWkDE)
+- [Solving Combinatorial Problems Using Reinforcement Learning and LLMs](https://youtu.be/HmYqrhSJb6U?si=SMQF3bn8FP-MkSHV)
 - [Visualizing transformers and attention | Talk for TNG Big Tech Day '24](https://youtu.be/KJtZARuO3JY?si=lrA5xwqBE545vn84)
 - [But what is a neural network? | Deep learning chapter 1](https://youtu.be/aircAruvnKk?si=sp9Z0hhkJnbMGNoo)
 - [Gradient descent, how neural networks learn | Deep Learning Chapter 2](https://youtu.be/IHZwWFHWa-w?si=ahYep9PICtoLgp1w)
