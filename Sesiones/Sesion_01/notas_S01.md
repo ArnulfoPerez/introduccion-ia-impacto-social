@@ -543,6 +543,7 @@ Alan Turing plantea: si una máquina puede mantener una conversación por texto 
 - [The Misconception that Almost Stopped AI [How Models Learn Part 1]](https://youtu.be/NrO20Jb-hy0?si=7i5XFsxzaMwH-zhd)
 - [How DeepSeek Rewrote the Transformer [MLA]](https://youtu.be/0VLAoVGf_74?si=bYNyKtaabk1KhFOd)
 - [The moment we stopped understanding AI [AlexNet]](https://youtu.be/UZDiGooFs54?si=CGX6YnxoGySjAz1Y)
+- [La conciencia como información integrada](https://blogs.ciencia.unam.mx/paradigmaxxi/2015/05/03/la-conciencia-como-informacion-integrada/)
 
 ---
 
