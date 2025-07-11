@@ -202,5 +202,6 @@ La IA exige marcos regulatorios globales (como el **IA Act de la UE**) y alfabet
 
 **Referencias Clave**:
 1. [OECD Guidelines on AI (2024)](https://oecd.ai/en/ai-principles)
+2. [El nuevo culto digital: cuando la inteligencia artificial se convierte en una deidad](https://www.infobae.com/america/mundo/2025/06/25/el-nuevo-culto-digital-cuando-la-inteligencia-artificial-se-convierte-en-una-deidad/)
   
 *Documento actualizado al 15/Jul/2024 - Datos verificados con fuentes primarias*
