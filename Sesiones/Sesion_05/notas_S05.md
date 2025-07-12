@@ -23,7 +23,9 @@
 
 **Material de apoyo:**  
 - [Twitter Files - Documentos internos sobre moderación](https://twitterfiles.com)   
-- [Platform Manipulation in 2023](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA2600/PEA2679-1/RAND_PEA2679-1.pdf)  
+- [Platform Manipulation in 2023](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA2600/PEA2679-1/RAND_PEA2679-1.pdf)
+- [Cómo Elon Musk destruyó Twitter y cómo salvarlo](https://www.washingtonpost.com/es/post-opinion/2023/01/02/elon-musk-twitter-encuesta-periodistas/)
+- [The Hill & Valley Forum](https://www.youtube.com/@HillValleyForum)
 
 ---
 
@@ -37,8 +39,9 @@
 - ¿Deben las empresas rechazar contratos con gobiernos autoritarios?  
 
 **Recursos:**  
-- [Informe Amnesty sobre Palantir](https://www.amnesty.org/en/tech-companies-human-rights/)  
-- [Contratos con ICE (EE.UU.)](https://theintercept.com/palantir-ice-contract)  
+- [Informe Amnesty sobre Palantir](https://doc.es.amnesty.org/ms-opac/doc?q=norm%3Asiai+AND+media%3Atrue+AND+msstored_doctype%3ADocumentaci%C3%B3n&start=3371&rows=1&sort=fecha%20asc&fq=norm&fv=*&fo=and) 
+- [Contratos con ICE (EE.UU.)](https://www.lanacion.com.ar/estados-unidos/migraciones/immigrationos-asi-funciona-el-nuevo-software-para-rastrear-migrantes-para-ice-nid10052025/)
+- [Palantir CEO Alex Karp and Jacob Helberg | Hill & Valley Forum 2024](https://www.youtube.com/watch?app=desktop&v=MqXQFfCIOiA)
 
 ---
 
