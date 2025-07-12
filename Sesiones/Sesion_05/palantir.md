@@ -170,3 +170,6 @@ La posición personal de Alex Karp y la institucional de Palantir revelan una co
 - 🔄 **Actualización**: Números aumentan diariamente.  
 
 
+## Referencias
+
+- [Palantir Technologies contracts raise human rights concerns before NYSE direct listing](https://amnesty.org.nz/palantir-technologies-contracts-raise-human-rights-concerns-nyse-direct-listing/)
