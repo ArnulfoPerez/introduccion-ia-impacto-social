@@ -43,6 +43,17 @@
 - [Informe Amnesty sobre Palantir](https://doc.es.amnesty.org/ms-opac/doc?q=norm%3Asiai+AND+media%3Atrue+AND+msstored_doctype%3ADocumentaci%C3%B3n&start=3371&rows=1&sort=fecha%20asc&fq=norm&fv=*&fo=and) 
 - [Contratos con ICE (EE.UU.)](https://www.lanacion.com.ar/estados-unidos/migraciones/immigrationos-asi-funciona-el-nuevo-software-para-rastrear-migrantes-para-ice-nid10052025/)
 - [Palantir CEO Alex Karp and Jacob Helberg | Hill & Valley Forum 2024](https://www.youtube.com/watch?app=desktop&v=MqXQFfCIOiA)
+- [There have been 500 days genocide and Palantir is responsible for killig innocent civilians in Gaza](https://youtu.be/RPQFWWXrEJc?si=w7v6Ew7ybdL80rIo)
+- [Viral Palantir protester warns all complicit in Gaza horrors](https://www.aa.com.tr/en/middle-east/interview-expose-them-viral-palantir-protester-warns-all-complicit-in-gaza-horrors/3565328)
+- [Palantir allegedly enables Israel's AI targeting in Gaza, raising concerns over war crimes](https://www.business-humanrights.org/es/%C3%BAltimas-noticias/palantir-allegedly-enables-israels-ai-targeting-amid-israels-war-in-gaza-raising-concerns-over-war-crimes/)
+- [Palantir allegedly supplying Israel with AI tools amid Israel's war in Gaza](https://www.business-humanrights.org/es/%C3%BAltimas-noticias/palantir-allegedly-supplying-israel-with-ai-tools-amid-israels-war-in-gaza/)
+- [Palantir CEO Alex Karp on college protests and the future of war](https://youtu.be/E1schQrqJFU?si=HuvE9Whhmovbmvnu)
+- [ICE firma contrato de $30M con Palantir para tecnología de datos](https://www.visaverge.com/es/noticias/ice-firma-contrato-de-30m-con-palantir-para-tecnologia-de-datos/)
+- [InmigrationOS, la tecnología de vigilancia que Trump ha encargado a Palantir para monitorizar inmigrantes: “Pretende un control absoluto”](https://elpais.com/tecnologia/2025-04-25/inmigrationos-la-tecnologia-de-vigilancia-que-trump-ha-encargado-a-palantir-para-monitorizar-inmigrantes-pretende-un-control-absoluto.html)
+- [El ICE y Palantir desarrollarán una nueva tecnología de IA para identificar a inmigrantes en EE UU](https://es.wired.com/articulos/ice-y-palantir-desarrollaran-nueva-tecnologia-para-identificar-a-inmigrantes-en-ee-uu)
+- [Palantir se vuelve hostil contra periodistas por la cobertura sobre su relación con el gobierno de Trump](https://es.wired.com/articulos/palantir-se-vuelve-hostil-contra-periodistas-por-la-cobertura-sobre-su-relacion-con-el-gobierno-de-trump)
+- [The Hill & Valley Forum 2025: Rebuilding America](https://www.youtube.com/live/uQCazCId_9o?si=mhW_Oq4AJ6dIRXcZ)
+- [Palantir CEO Alex Karp & Rep. Ritchie Torres on Innovation & The West](https://youtu.be/DEZCBkn20Og?si=fSQ06YQ06FHrHY1z)
 
 ---
 
