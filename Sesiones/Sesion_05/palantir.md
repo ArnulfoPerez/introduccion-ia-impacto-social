@@ -147,7 +147,26 @@ La posición personal de Alex Karp y la institucional de Palantir revelan una co
 
 > 🧭 Para los ciudadanos de países sin soberanía tecnológica, el caso Palantir representa un llamado urgente a **desarrollar marcos éticos, jurídicos y técnicos** que limiten el uso de tecnologías de vigilancia y guerra sin control democrático.
 
-¿Te gustaría que convierta esta sección en una entrada independiente para GitHub Pages o que la integre como capítulo en un informe más extenso sobre ética algorítmica?
+### Víctimas del Conflicto en Gaza (2023-2024)  
+*Fuentes: ONU (OCHA, UNRWA), OMS, CPJ, IDF (actualizado a julio 2024)*  
 
+| Categoría                     | Víctimas Estimadas | Notas                                       | Fuente                          |
+|-------------------------------|--------------------|---------------------------------------------|---------------------------------|
+| **Niños/as**                  | >14,000            | Mayoría en bombardeos                      | UNICEF                          |
+| **Mujeres**                   | ~6,000             | Incluye embarazadas                        | UN Women                        |
+| **Personas mayores**          | ~1,200+            |                                             | OCHA                            |
+| **Médicos/as**                | 500+               | Incluye ataques a hospitales               | OMS                             |
+| **Periodistas**               | 150+               | Mayor cifra en conflicto moderno           | CPJ                             |
+| **Profesores/educadores**     | 300+               | Escuelas bombardeadas                      | UNRWA                           |
+| **Escritores/intlectuales**  | ~50+               |                                             | PEN International              |
+| **Funcionarios públicos**     | ~200+              | Empleados de gobierno local                | Gisha                           |
+| **Trabajadores humanitarios** | 100+               | ONU, ONGs                                  | OCHA                            |
+| **Combatientes (Hamas)**      | 5,000–8,000        | Estimaciones IDF/WA Post                   | The Washington Post             |
+| **Soldados israelíes**        | ~300               |                                             | IDF                             |
+
+#### Notas:  
+- 🚨 **Limitaciones**: Cifras difíciles de verificar por bloqueo y destrucción de infraestructura.  
+- ⚠️ **Definiciones polémicas**: Israel considera "combatientes" a hombres adultos en zonas militantes.  
+- 🔄 **Actualización**: Números aumentan diariamente.  
 
 
