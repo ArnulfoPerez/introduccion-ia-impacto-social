@@ -70,7 +70,8 @@
 - Sesgos culturales en respuestas  
 
 **Lectura:**  
-- [Paper "Fairness in LLMs"](https://arxiv.org/abs/2305.18551)  
+- [Fairness in Large Language Models: A Taxonomic Survey]([https://arxiv.org/abs/2305.18551](https://arxiv.org/abs/2404.01349))
+- [Corredores de datos, empresas de análisis de datos, “registros musulmanes” y derechos humanos](https://medium.com/amnesty-insights/corredores-de-datos-empresas-de-an%C3%A1lisis-de-datos-registros-musulmanes-y-derechos-humanos-d0be38295a29)
 
 ---
 
@@ -89,7 +90,7 @@
 ---
 
 ## 🎥 **Diapositivas Resumen (Canva)**  
-[Plantilla lista para editar](https://www.canva.com/design/EXAMPLE/template-keypoints) con:  
+
 1. Portada con título  
 2. Infografía "Flujo de manipulación en redes"  
 3. Tabla comparativa de filtros por empresa  
