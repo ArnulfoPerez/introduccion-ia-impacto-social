@@ -26,6 +26,7 @@
 - [Platform Manipulation in 2023](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA2600/PEA2679-1/RAND_PEA2679-1.pdf)
 - [Cómo Elon Musk destruyó Twitter y cómo salvarlo](https://www.washingtonpost.com/es/post-opinion/2023/01/02/elon-musk-twitter-encuesta-periodistas/)
 - [The Hill & Valley Forum](https://www.youtube.com/@HillValleyForum)
+- [Forging the Technological Republic](https://www.youtube.com/live/uQCazCId_9o?si=FzwXM4817BtZIo0f&t=4790)
 
 ---
 
