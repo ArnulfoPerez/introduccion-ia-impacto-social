@@ -89,6 +89,47 @@
 
 ---
 
+# 🧠 ¿Qué son los filtros de corrección política en IA?
+
+Los filtros de *political correctness* son mecanismos que limitan o moderan las respuestas de los modelos de lenguaje para evitar contenido ofensivo, discriminatorio o políticamente sensible. Estos filtros se implementan por razones éticas, legales y comerciales.
+
+---
+
+## 🎥 Videos que explican el fenómeno
+
+### 1. [Hablemos de Chatbots](https://www.youtube.com/watch?v=aQf9kzb_3ng)
+
+- Los chatbots no son conscientes, pero pueden generar contenido sensible si no se filtra.
+- Las empresas como OpenAI y Microsoft implementan APIs y capas de moderación para evitar que respondan sobre violencia, política extrema o contenido sexual.
+- Estas limitaciones pueden afectar la autenticidad y utilidad del chatbot en ciertos contextos.
+
+---
+
+### 2. [¿Cómo funcionan los chatbots?](https://www.youtube.com/watch?v=Fw9tWZOraUo)
+
+- Los modelos aprenden de datos públicos y luego se ajustan con reglas para evitar sesgos.
+- Los filtros pueden limitar la expresión libre, pero también protegen contra desinformación y discurso de odio.
+- Los moderadores humanos complementan el sistema para bloquear respuestas ofensivas.
+
+---
+
+### 3. [El renacer de los chatbots en la era de la IA Generativa](https://www.youtube.com/watch?v=z1SBcWzcpY0)
+
+- Existe una tensión entre creatividad y seguridad, y los filtros pueden bloquear respuestas útiles en arte o filosofía.
+- Los modelos modernos detectan intención y contexto, no solo palabras prohibidas.
+- Se debate si los filtros reflejan valores universales o intereses corporativos.
+
+---
+
+## 📌 Conclusión
+
+Los filtros de corrección política en IA son herramientas necesarias para evitar daños, pero generan debates sobre censura, libertad de expresión y sesgo institucional. Su implementación varía según la empresa, el país y el tipo de aplicación.
+
+---
+
+¿Quieres que convierta esto en una entrada para GitHub Pages o en una presentación visual en Canva? También puedo ayudarte a ampliar este análisis con ejemplos de moderación en plataformas específicas.
+
+
 ## 🎥 **Diapositivas Resumen (Canva)**  
 
 1. Portada con título  
@@ -106,8 +147,7 @@
 **Minutos 45-60:** Q&A con votación en vivo (ej: "¿Deben regularse los LLMs?")  
 
 **Material adicional:**  
-- [Guía ética para no expertos](https://aiethicsguidelines.org)  
-- [Video explicativo: "Cómo funcionan los filtros"](https://youtu.be/EXAMPLE)  
+- [Guía ética de la UNESCO](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics) 
 
 --- 
 
