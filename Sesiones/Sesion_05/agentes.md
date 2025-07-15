@@ -285,6 +285,141 @@ Los LRM representan un avance en razonamiento artificial, pero:
 ## Conclusión
 La "ilusión de pensamiento" en LLMs surge de su capacidad para imitar procesos cognitivos humanos sin replicar mecanismos subyacentes, requiriendo aproximaciones técnicas más robustas para inteligencia artificial general.
 
+# 🧠 Resumen en Español: "Análisis Sistemático de la Brecha de Seguridad en Capital One" (ACM, 2023)
+
+> 📄 Fuente original: [ACM Transactions on Privacy and Security](https://dl.acm.org/doi/10.1145/3546068)  
+> Autores: Shaharyar Khan, Ilya Kabanov, Stuart Madnick, Yunke Hua
+
+---
+
+## 🧭 Introducción
+
+Este artículo académico realiza un análisis exhaustivo del incidente de seguridad ocurrido en **Capital One en 2019**, considerado uno de los casos más emblemáticos de vulnerabilidades en la nube. El estudio identifica **fallas técnicas, organizacionales y regulatorias** que permitieron el acceso no autorizado a datos de más de 100 millones de clientes.
+
+---
+
+## 🔍 Principales hallazgos
+
+- El atacante explotó una **configuración errónea de un firewall en AWS**, accediendo a metadatos de roles IAM con privilegios excesivos.
+- Se utilizó una técnica de **Server-Side Request Forgery (SSRF)** para obtener credenciales temporales y acceder a buckets S3.
+- Capital One no tenía implementadas **alertas efectivas ni monitoreo contextual**, lo que permitió que el ataque pasara desapercibido durante semanas.
+- La arquitectura de seguridad dependía excesivamente de **controles perimetrales**, sin segmentación interna ni validación de comportamiento.
+
+---
+
+## 🧨 Lecciones críticas
+
+1. **Seguridad en la nube requiere rediseño estructural**, no solo migración de controles tradicionales.
+2. **Privilegios mínimos y segmentación de roles** son esenciales para evitar escalamiento lateral.
+3. **Auditoría continua y detección de anomalías** deben ser parte del ciclo operativo, no solo del cumplimiento normativo.
+4. **La responsabilidad compartida entre proveedor y cliente** debe traducirse en prácticas concretas, no solo en acuerdos contractuales.
+
+---
+
+## 🤖 Extensión temática: Riesgos de seguridad en agentes IA
+
+El caso Capital One ofrece paralelismos directos con los desafíos emergentes en **agentes basados en inteligencia artificial**, especialmente en entornos empresariales:
+
+### 1. **Autonomía sin supervisión**
+Los agentes IA pueden ejecutar acciones sobre APIs, bases de datos o sistemas sin intervención humana. Si no se definen límites claros, pueden replicar errores como los del SSRF en Capital One, accediendo a recursos internos sin validación.
+
+### 2. **Privilegios excesivos**
+Al igual que los roles IAM mal configurados, los agentes IA pueden operar con permisos amplios que permiten movimientos laterales, extracción de datos o ejecución de comandos no autorizados.
+
+### 3. **Falta de trazabilidad**
+En Capital One, la ausencia de logs detallados dificultó la detección del ataque. En agentes IA, la generación dinámica de decisiones y prompts puede dificultar la auditoría si no se implementan mecanismos de registro estructurado.
+
+### 4. **Vulnerabilidades en protocolos de integración**
+El uso de protocolos como MCP (Model Context Protocol) para conectar agentes con herramientas externas puede replicar los errores de configuración observados en Capital One si no se validan los endpoints, tokens y permisos.
+
+---
+
+## 🧠 Recomendaciones para entornos con agentes IA
+
+| Riesgo                      | Mitigación recomendada                                      |
+|----------------------------|-------------------------------------------------------------|
+| Autonomía sin control      | Supervisión humana, límites de ejecución, validación semántica |
+| Privilegios excesivos      | RBAC estricto, tokens de sesión, segmentación de funciones |
+| Falta de trazabilidad      | Logs criptográficamente firmados, replay de decisiones     |
+| Integración insegura       | Validación de endpoints, sandboxing, firewalls contextuales |
+
+---
+
+## 📌 Conclusión
+
+El análisis del caso Capital One no solo revela fallas específicas en la seguridad de la nube, sino que anticipa los **riesgos estructurales** que enfrentan los sistemas basados en agentes IA. La combinación de autonomía, acceso a datos sensibles y falta de supervisión convierte a los agentes en **potenciales vectores de ataque**, si no se diseñan con principios de seguridad desde su arquitectura.
+
+> 🧭 La seguridad en IA no es solo una cuestión técnica, sino una responsabilidad estratégica que debe integrarse en cada capa del sistema.
+
+---
+
+# 🖼️ Diapositivas Ejecutivas: Riesgos de Seguridad en IA a partir del Caso Capital One
+
+> Basado en el artículo académico de ACM: [Análisis Sistemático del Caso Capital One](https://dl.acm.org/doi/10.1145/3546068)
+
+---
+
+### 🎯 Slide 1: Título  
+**Seguridad en la Nube e IA Agéntica: Lecciones del Caso Capital One**
+
+---
+
+### 🔍 Slide 2: Brecha de Seguridad
+
+- Explotación de configuración errónea en firewall AWS  
+- Uso de SSRF para acceder a credenciales IAM  
+- Falta de monitoreo y alertas efectivas  
+- Arquitectura dependiente de controles perimetrales
+
+---
+
+### 🧠 Slide 3: Fallas Estratégicas
+
+- Privilegios excesivos en roles  
+- Ausencia de segmentación interna  
+- Auditoría reactiva  
+- Pérdida de trazabilidad
+
+---
+
+### 🤖 Slide 4: Riesgos Emergentes en Agentes IA
+
+- Autonomía sin supervisión  
+- Acceso a datos sensibles por diseño  
+- Trazabilidad limitada de decisiones  
+- Vulnerabilidad por integración con herramientas externas
+
+---
+
+### ⚠️ Slide 5: Parentesco Capital One – Agentes IA
+
+| Capital One (2019)         | Agentes IA (2025)             |
+|----------------------------|-------------------------------|
+| SSRF y credenciales IAM    | Tool injection y prompt leaking |
+| Privilegios mal definidos  | Agentes con scopes ambiguos   |
+| Sin logs contextualizados  | Decisiones sin historial auditado |
+| Configuración insegura     | Endpoints sin validación semántica |
+
+---
+
+### 🧩 Slide 6: Principios de Mitigación
+
+- Supervisión humana estructurada  
+- Límite de ejecución y sandboxing  
+- Diseño por privilegios mínimos  
+- Registro detallado y criptográficamente seguro
+
+---
+
+### 📌 Slide 7: Conclusión
+
+**La seguridad en entornos de IA agéntica requiere rediseño arquitectónico, no solo adaptación.**  
+Lecciones del pasado, como Capital One, ofrecen una hoja de ruta para prevenir riesgos futuros. Integrar seguridad en cada capa es esencial para proteger a empresas, usuarios y ecosistemas digitales.
+
+---
+
+
+
 > Documento técnico de Apple ML | [Enlace original](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 
 ## 🖼️ Diapositivas para Canva
