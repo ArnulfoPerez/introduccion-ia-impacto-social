@@ -405,3 +405,89 @@ Una introducción accesible a su funcionamiento, base matemática y relevancia e
 
 ---
 
+# 🧠 Resumen del video [Solving Combinatorial Problems Using Reinforcement Learning and LLMs](https://www.youtube.com/watch?v=HmYqrhSJb6U) presentado por Martin Takáč en MBZUAI.
+
+---
+
+## 🧭 ¿Qué son los LLMs?
+
+Un **Large Language Model (LLM)** es un sistema de inteligencia artificial entrenado con grandes volúmenes de texto para comprender, generar y razonar sobre lenguaje humano.  
+Más allá de responder preguntas o redactar textos, los LLMs pueden:
+
+- Resolver problemas matemáticos
+- Planificar tareas complejas
+- Tomar decisiones en entornos dinámicos
+- Interactuar con herramientas externas
+
+---
+
+## 🎥 Resumen del video: LLMs y Aprendizaje por Refuerzo en Problemas Combinatorios
+
+Martin Takáč explora cómo los LLMs pueden colaborar con algoritmos de **aprendizaje por refuerzo (RL)** para resolver problemas de optimización combinatoria, como el **viaje del vendedor**, la **asignación de recursos** o la **planificación de rutas**.
+
+### Momentos clave del video:
+
+- **Branch and Bound (04:36)**  
+  Se explica cómo los algoritmos tradicionales exploran soluciones posibles mediante poda inteligente del espacio de búsqueda.
+
+- **Worst Case Approach (13:22)**  
+  Se analiza cómo los modelos pueden prepararse para escenarios de peor rendimiento, mejorando su robustez.
+
+- **Reinforcement Learning (14:34)**  
+  Se introduce el concepto de RL como técnica para aprender políticas óptimas mediante retroalimentación.
+
+- **Optimization Problem (16:35)**  
+  Se muestra cómo los LLMs pueden formular y resolver problemas de optimización como agentes activos.
+
+- **Sequence-to-Sequence Models (21:06)**  
+  Se discute cómo los modelos secuenciales pueden representar soluciones paso a paso, útiles en planificación.
+
+> 🧠 El video demuestra que los LLMs no solo entienden lenguaje, sino que pueden **razonar sobre estructuras matemáticas** y colaborar con algoritmos clásicos para mejorar resultados.
+
+---
+
+## 🔍 ¿Qué es el Aprendizaje por Refuerzo?
+
+El **Reinforcement Learning (RL)** es una técnica donde un agente aprende a tomar decisiones mediante prueba y error, recibiendo recompensas por acciones correctas.
+
+- El agente explora un entorno
+- Recibe retroalimentación (recompensa o penalización)
+- Ajusta su política para maximizar resultados futuros
+
+Cuando se combina con LLMs, el agente puede:
+
+- Interpretar instrucciones en lenguaje natural
+- Generar soluciones estructuradas
+- Aprender de simulaciones o entornos reales
+
+---
+
+## 🧩 Aplicaciones prácticas
+
+| Área                   | Ejemplo de uso                                      |
+|------------------------|-----------------------------------------------------|
+| Logística              | Optimización de rutas de entrega                    |
+| Finanzas               | Asignación dinámica de portafolios                  |
+| Manufactura            | Planificación de producción                         |
+| Educación              | Tutoría personalizada con retroalimentación adaptativa |
+| TI empresarial         | Automatización de flujos de trabajo complejos       |
+
+---
+
+## 🧠 Conceptos clave explicados
+
+| Término                | Explicación sencilla                                 |
+|------------------------|------------------------------------------------------|
+| Problema combinatorio  | Problema con muchas combinaciones posibles           |
+| Política               | Estrategia que sigue el agente para tomar decisiones |
+| Recompensa             | Valor que indica si una acción fue buena o mala      |
+| Secuencia              | Serie ordenada de pasos o decisiones                 |
+| Poda (Branch & Bound)  | Técnica para eliminar soluciones no óptimas          |
+
+---
+
+## 📌 Conclusión
+
+Los LLMs están evolucionando más allá del lenguaje.  
+Combinados con aprendizaje por refuerzo, pueden **resolver problemas complejos**, **optimizar decisiones** y **actuar como agentes inteligentes** en entornos reales.  
+Para profesionales de TI, esto representa una nueva frontera en automatización, planificación y eficiencia operativa.
