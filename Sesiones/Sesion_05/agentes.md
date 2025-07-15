@@ -469,6 +469,8 @@ Lecciones del pasado, como Capital One, ofrecen una hoja de ruta para prevenir r
 - [Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027?ref=thestack.technology)
 - [NEW REPORT: Coming AI Crash - 91% Failure Rates and $600B in Wasted Investment](https://youtu.be/CDr93TshBsE?si=tLk23Ae7HSqg27Ck)
 - [Is the “AI Agent” Revolution Just One Big Scam?](https://ninza7.medium.com/is-the-ai-agent-revolution-just-one-big-scam-c80f3e647ba3)
+- [AI INTERVIEWS ARE HERE!! SO I TROLLED ONE](https://youtu.be/Ng_Bj7tVw78?si=yt1GwVw34tlCtJOG)
+- [The Problem With ChatGPT, With Gary Marcus](https://www.youtube.com/watch?v=T-23eOi8rgA)
 
 # Resumen: "AI agents fail a lot" – The Register (29/06/2025)
 
@@ -626,4 +628,77 @@ Es una herramienta que cualquiera puede construir, mejorar y usar con propósito
 Desde un pueblito mexicano… al corazón de una plataforma global
 
 ---
+# 🧠 [El problema con ChatGPT — Gary Marcus](https://www.youtube.com/watch?v=T-23eOi8rgA)
+
+## 🎯 Idea central
+Gary Marcus expone las limitaciones fundamentales de los modelos de lenguaje actuales, argumentando que **ChatGPT no entiende el mundo**, sino que simplemente predice texto basado en patrones estadísticos.
+
+---
+
+## 🔍 Puntos clave
+
+- **ChatGPT no razona**: No tiene comprensión real ni sentido común; solo genera texto coherente.
+- **Errores de alucinación**: Produce respuestas falsas con confianza, lo que puede ser peligroso en contextos críticos.
+- **Falta de verificación**: No tiene mecanismos internos para validar hechos o corregirse.
+- **Ausencia de simbolismo**: Marcus defiende un enfoque neuro-simbólico que combine redes neuronales con lógica simbólica.
+- **AGI aún distante**: La inteligencia artificial general requiere capacidades que van más allá de la generación de texto.
+
+---
+
+## 🧩 Comparación de enfoques
+
+| Enfoque actual (LLMs) | Enfoque propuesto (Neuro-simbólico) |
+|-----------------------|--------------------------------------|
+| Basado en texto y estadística | Combina aprendizaje profundo con lógica |
+| No entiende contexto real | Usa estructuras simbólicas para razonar |
+| Genera errores sin saberlo | Puede validar y corregir |
+
+---
+
+El video de Novara Media presenta una entrevista con **Gary Marcus**, un destacado profesor emérito de psicología y neurociencia de la Universidad de Nueva York, quien ofrece una crítica profunda sobre los modelos de lenguaje de gran escala (LLM) como ChatGPT y sus implicaciones actuales y futuras para la inteligencia artificial.
+
+## Puntos Clave de la Crítica de Gary Marcus:
+
+### 1. Escepticismo sobre los LLMs y la IAG
+* **"Salvaje sobrevaloración":** Marcus sostiene que los LLMs están "salvajemente sobrevalorados" y que no nos conducirán a la Inteligencia Artificial General (IAG). Argumenta que carecen de una comprensión profunda y de verdaderas capacidades de razonamiento.
+* **Necesidad de innovación fundamental:** Para lograr la IAG, Marcus insiste en que se requiere una innovación fundamental, específicamente la integración de la IA simbólica o clásica, que se enfoca en reglas y representaciones de conocimiento explícitas.
+
+### 2. Limitaciones de las Capacidades Actuales de los LLMs
+* **"Frontera irregular":** Aunque los LLMs han mostrado mejoras en algunas tareas que Marcus consideraba difíciles (como el razonamiento físico), él explica que esto se debe a que son entrenados con ejemplos muy específicos, incluso algunos que él mismo ha creado. Esto crea una "frontera irregular" donde los modelos pueden resolver problemas concretos, pero fallan al generalizar o al enfrentar variaciones sutiles. Su "comprensión" es superficial, basada en patrones estadísticos, no en un verdadero entendimiento causal o lógico.
+* **Falta de sentido común y razonamiento:** A pesar de su fluidez lingüística, los LLMs a menudo demuestran una falta de sentido común y de habilidades de razonamiento robustas, lo que los hace propensos a errores lógicos y a la generación de contenido absurdo o incorrecto (alucinaciones).
+
+### 3. Preocupaciones sobre la Honestidad y Regulación
+* **Desconfianza en las declaraciones de líderes de la IA:** Marcus expresa su desconfianza en figuras como Sam Altman (CEO de OpenAI), sugiriendo que sus declaraciones ante el Senado de EE. UU. no fueron completamente transparentes respecto a los verdaderos temores sobre la IA y que ha habido cambios en su postura sobre la regulación y la compensación a creadores de contenido.
+* **Urgencia de regulación:** Marcus subraya la necesidad crítica de regulación para la IA, especialmente en áreas como la desinformación. Sin embargo, se muestra pesimista sobre la rapidez con la que se implementarán estas regulaciones en Estados Unidos.
+
+### 4. Riesgos Inmediatos y su Impacto Social
+* **Desinformación y ciberdelito:** Los LLMs facilitan la creación masiva de contenido engañoso, lo que representa una amenaza significativa para la desinformación y el ciberdelito.
+* **Discriminación:** Los sesgos inherentes en los datos de entrenamiento pueden llevar a que los LLMs perpetúen la discriminación en áreas como el empleo.
+* **Impacto en la salud mental:** Marcus advierte sobre el riesgo de que la IA genere "delirios" en personas, incluso sin historial psiquiátrico, al presentar información falsa de manera convincente.
+* **Debate democrático:** La IA generativa, combinada con una posible "cultura post-alfabetizada", podría socavar la calidad del debate democrático y la capacidad de los ciudadanos para discernir la verdad de la falsedad. El riesgo de "poner sistemas no muy inteligentes" a cargo de asuntos importantes es inmenso.
+
+## Conclusión de Marcus:
+Aunque Gary Marcus no cree que la IA actual conduzca a una extinción literal de la humanidad, está profundamente preocupado por los **riesgos inmediatos y catastróficos** que representan los LLMs, especialmente la desinformación masiva que podría escalar a conflictos graves, y la alarmante falta de una regulación adecuada. Su postura aboga por una IA que integre la lógica y el razonamiento simbólico para superar las limitaciones actuales de los modelos puramente basados en datos.
+
+---
+
+## 📚 Recursos adicionales
+
+- [Gary Marcus en Substack](https://garymarcus.substack.com)
+- Libro recomendado: *Rebooting AI* — Gary Marcus y Ernest Davis
+
+---
+
+## 📝 Aplicaciones prácticas
+
+- Evaluar críticamente el uso de LLMs en educación, medicina y derecho.
+- Promover investigación en IA híbrida (neuro-simbólica).
+- Diseñar sistemas con verificación de hechos y razonamiento explícito.
+
+---
+
+## 📌 Conclusión
+
+Marcus nos invita a mirar más allá del entusiasmo por los modelos de lenguaje y a construir **IA que realmente entienda**, razone y sea confiable. El futuro de la inteligencia artificial, según él, no está en más datos, sino en **mejor arquitectura cognitiva**.
+
 
