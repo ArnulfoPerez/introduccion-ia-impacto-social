@@ -54,6 +54,7 @@
 - [Palantir se vuelve hostil contra periodistas por la cobertura sobre su relación con el gobierno de Trump](https://es.wired.com/articulos/palantir-se-vuelve-hostil-contra-periodistas-por-la-cobertura-sobre-su-relacion-con-el-gobierno-de-trump)
 - [The Hill & Valley Forum 2025: Rebuilding America](https://www.youtube.com/live/uQCazCId_9o?si=mhW_Oq4AJ6dIRXcZ)
 - [Palantir CEO Alex Karp & Rep. Ritchie Torres on Innovation & The West](https://youtu.be/DEZCBkn20Og?si=fSQ06YQ06FHrHY1z)
+- [What is a long context window?](https://blog.google/technology/ai/long-context-window-ai-models/#:~:text=Previously%2C%20Gemini%20could%20process%20up,can%20take%20in%20and%20process.)
 
 ---
 
