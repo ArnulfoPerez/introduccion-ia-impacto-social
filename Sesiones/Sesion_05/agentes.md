@@ -1,8 +1,62 @@
-# 📘 Informe Ejecutivo: Evaluación Estratégica de Agentes Basados en IA
+# 📘 Evaluación Estratégica de Agentes Basados en IA
 
-> **Comité de análisis interdisciplinario:**  
-> Consultores de Gartner, CTO de empresa no especializada en IA, investigadores de eficiencia empresarial (Carnegie Mellon, MIT), desarrolladores freelance.
+## 📉 Resumen en Español: "La burbuja de la IA agentica no está justificada" – Gartner
 
+> Fuente original: [The Stack Technology](https://www.thestack.technology/agentic-froth-not-earned-warns-gartner-studies-back-that-view-up/)
+
+---
+
+## 🧭 Introducción
+
+Gartner advierte que el entusiasmo por la **IA agentica** —modelos que actúan como agentes autónomos— está inflado y no respaldado por resultados reales. En su informe *Avoid Agentic AI Failure*, la firma predice que **más del 40% de los proyectos de IA agentica fracasarán antes de 2027** debido a costos elevados, falta de retorno de inversión (ROI) y escasa madurez tecnológica.
+
+---
+
+## 🧪 Principales hallazgos
+
+- Solo **130 proveedores** de IA agentica tienen aplicaciones reales; el resto son casos de *agent washing* (rebranding de chatbots y RPA como agentes).
+- La mayoría de los proyectos actuales son **experimentos o pruebas de concepto** sin valor empresarial claro.
+- Los modelos actuales **no tienen la capacidad de lograr metas complejas de negocio** ni seguir instrucciones matizadas de forma autónoma.
+
+---
+
+## 🧬 Estudios que respaldan la advertencia
+
+### 1️⃣ Carnegie Mellon – *TheAgentCompany*
+
+- Simulación de una empresa operada por agentes de Anthropic, Google, Meta, etc.
+- **Tasa de éxito: ~30%**
+- Problemas: evasión de tareas difíciles, navegación web limitada, interacción social deficiente.
+
+### 2️⃣ Bank for International Settlements
+
+- Agentes son eficaces en tareas estrechas, pero **carecen de autocrítica y capacidad de corrección**.
+- Claude fue el mejor modelo, pero aún limitado en adaptabilidad.
+
+---
+
+## 📈 Proyecciones mixtas
+
+- Gartner estima que para 2028:
+  - **15% de las decisiones laborales diarias** serán tomadas por agentes.
+  - **33% de las aplicaciones empresariales** incluirán IA agentica.
+- Sin embargo, el número de decisiones automatizadas será bajo en relación con la cantidad de aplicaciones.
+
+---
+
+## 🧠 Recomendaciones de Gartner
+
+- **Evitar el hype** y centrarse en productividad empresarial, no solo en automatización de tareas.
+- Usar agentes para decisiones, automatización para flujos repetitivos y asistentes para recuperación de información.
+- Rediseñar flujos desde cero en lugar de adaptar sistemas heredados.
+
+---
+
+## 📌 Conclusión
+
+La IA agentica tiene potencial, pero **su implementación actual está sobrevalorada**. Gartner y estudios académicos coinciden en que **la mayoría de los proyectos no están listos para producción**. Las empresas deben priorizar casos de uso con valor claro y evitar inversiones impulsadas por moda tecnológica.
+
+---
 ---
 
 ## 🧭 Introducción
@@ -277,6 +331,9 @@ La "ilusión de pensamiento" en LLMs surge de su capacidad para imitar procesos 
 - [Solving Real-World Tasks with AI Agents](https://kilthub.cmu.edu/articles/thesis/Solving_Real-World_Tasks_with_AI_Agents/26798437?file=48699703)
 - [Salesforce and Gartner Cast Doubt on AI Agents](https://www.gravity.global/en/blog/salesforce-and-gartner-cast-doubt-on-ai-agents)
 - [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+- [Gartner Predicts Over 40% of Agentic AI Projects Will Be Canceled by End of 2027](https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027?ref=thestack.technology)
+- [NEW REPORT: Coming AI Crash - 91% Failure Rates and $600B in Wasted Investment](https://youtu.be/CDr93TshBsE?si=tLk23Ae7HSqg27Ck)
+- [Is the “AI Agent” Revolution Just One Big Scam?](https://ninza7.medium.com/is-the-ai-agent-revolution-just-one-big-scam-c80f3e647ba3)
 
 # Resumen: "AI agents fail a lot" – The Register (29/06/2025)
 
