@@ -146,7 +146,36 @@ Los filtros de corrección política en IA son herramientas necesarias para evit
 
 --- 
 
-**Notas finales:**  
-- Todos los links están verificados y en español/inglés sencillo  
-- Evitar términos técnicos sin explicación (ej: decir "lista de reglas" en vez de "constitutional AI")  
-- Descargar este archivo como `etica_ia.md` para usarlo sin conexión  
+# [El Fin de la Ley de Moore para la IA: ¿Por Qué los Ejecutivos de IA Están Aterrados?](https://www.youtube.com/watch?v=VhLeHvouPWs)
+
+El video, presentado por Spencer de STARTUP HAKK, aborda un cambio crucial en el panorama de la inteligencia artificial: el fin de la suposición de que los costos de la IA disminuirán perpetuamente, una idea a menudo comparada con la Ley de Moore. Este cambio se evidencia con el reciente aumento de precios de Google para su modelo Gemini Flash.
+
+## Puntos Clave del Video:
+
+### 1. Aumento de Precios de Google y el Fin de la Tendencia
+* **Precedente:** Google duplicó el precio de entrada de tokens de su modelo Gemini 2.5 Flash (de $0.15 a $0.30 por millón de tokens) y cuadruplicó el precio de salida (de $0.60 a $2.50 por millón de tokens). Esta es la primera vez que un proveedor importante de IA aumenta los precios de un modelo establecido, marcando un punto de inflexión.
+
+### 2. La Realidad de los Costos Cuadráticos de la IA
+* **Escalado no lineal:** El presentador explica que los costos de procesamiento de la IA no escalan linealmente, sino **cuadráticamente** con la longitud de la secuencia. Esto significa que si la longitud de entrada de un modelo se duplica, el costo de procesamiento se cuadruplica. Los proveedores de API han estado cobrando una tarifa plana por token, mientras que sus costos operativos reales aumentaban exponencialmente.
+
+### 3. El Fin de los Subsidios
+* **Quema de efectivo:** Las grandes empresas de IA han estado subsidiando los precios de sus servicios, quemando efectivo con la esperanza de alcanzar futuras economías de escala.
+* **Límites físicos:** Este modelo de subsidio está llegando a su límite debido a limitaciones físicas y de hardware, como los altos costos de energía de los centros de datos y las limitaciones en el ancho de banda de la memoria de los chips de IA.
+
+### 4. Cambio Estratégico Hacia el Procesamiento por Lotes
+* **Límite de inferencia en tiempo real:** Dado que la inferencia de IA en tiempo real ha alcanzado un límite de costos, el procesamiento por lotes (procesar tareas en grupos en lugar de una por una) se vuelve mucho más atractivo.
+* **Ahorros significativos:** Se pueden lograr ahorros de costos de hasta el 90% al procesar tareas en lotes en servidores locales en lugar de depender de APIs en tiempo real de terceros.
+
+### 5. La Importancia de los Modelos de Código Abierto y el Control de Datos
+* **Alternativa rentable:** Se recomienda el uso de modelos de código abierto (como los disponibles en plataformas como Olama), ya que ofrecen un rendimiento equivalente o superior a una fracción del costo, eliminando la dependencia de un único proveedor.
+* **Soberanía de datos:** Mantener los datos y los modelos en servidores propios permite a las empresas retener el control total de su información, un aspecto crucial para la seguridad y la privacidad.
+
+### 6. Límites Fundamentales de los LLMs
+* **Restricciones físicas y de datos:** El video destaca que los modelos de lenguaje grandes (LLM) están alcanzando límites fundamentales debido a restricciones físicas en el ancho de banda de la memoria y a la escasez de datos de entrenamiento de alta calidad.
+* **"Colapso del modelo":** Entrenar con datos sintéticos o repetidos puede llevar al "colapso del modelo", donde el rendimiento del LLM se degrada significativamente.
+
+### 7. Implicaciones Críticas para las Empresas
+* **Gestión de costos:** Las empresas ya no pueden asumir que los costos de la IA disminuirán. Los gerentes de producto y líderes de TI deben integrar la gestión de costos como una característica principal en sus estrategias de IA.
+* **Inversión en infraestructura:** Las empresas deben considerar invertir en arquitecturas de procesamiento por lotes y en infraestructura para modelos de código abierto para optimizar costos y mantener el control.
+
+Spencer, a través de Starter Pack, ofrece servicios de desarrollo de software y consultoría para ayudar a las empresas a navegar por estos cambios, enfocándose en la conexión de sistemas y la creación de agentes de IA personalizados.
