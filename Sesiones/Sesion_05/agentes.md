@@ -88,6 +88,37 @@ Un **agente IA válido** es un sistema que:
 
 ---
 
+# Resumen: "The Illusion of Thinking" - Apple ML Research
+
+## Contexto
+Estudio técnico que analiza cómo los modelos de lenguaje grandes (LLMs) simulan procesos de razonamiento humano sin comprensión genuina, creando una "ilusión de pensamiento".
+
+## Hallazgos principales
+
+### Limitaciones en el razonamiento de IA
+- Los LLMs generan respuestas plausibles pero sin comprensión subyacente.
+- El "razonamiento" observado es producto de patrones estadísticos en datos de entrenamiento.
+- Falta de modelo mental coherente para validar argumentos.
+
+### Evidencia experimental
+- Errores sistemáticos en tareas que requieren:
+  - Razonamiento multi-paso
+  - Verificación lógica
+  - Aplicación de conocimiento en nuevos contextos
+- Mejor desempeño en imitación superficial que en profundidad conceptual.
+
+### Implicaciones
+- Riesgo de sobreconfianza en capacidades cognitivas de IA.
+- Necesidad de frameworks de evaluación que distingan entre:
+  - Competencia aparente (imitación)
+  - Competencia real (comprensión)
+- Importancia de arquitecturas híbridas que integren razonamiento simbólico.
+
+## Conclusión
+La "ilusión de pensamiento" en LLMs surge de su capacidad para imitar procesos cognitivos humanos sin replicar mecanismos subyacentes, requiriendo aproximaciones técnicas más robustas para inteligencia artificial general.
+
+> Documento técnico de Apple ML | [Enlace original](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+
 ## 🖼️ Diapositivas para Canva
 
 ### Slide 1: Título
@@ -131,6 +162,7 @@ Un **agente IA válido** es un sistema que:
 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 - [Solving Real-World Tasks with AI Agents](https://kilthub.cmu.edu/articles/thesis/Solving_Real-World_Tasks_with_AI_Agents/26798437?file=48699703)
 - [Salesforce and Gartner Cast Doubt on AI Agents](https://www.gravity.global/en/blog/salesforce-and-gartner-cast-doubt-on-ai-agents)
+- [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 
 # Resumen: "AI agents fail a lot" – The Register (29/06/2025)
 
