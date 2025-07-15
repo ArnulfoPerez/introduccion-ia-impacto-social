@@ -130,6 +130,7 @@ Un **agente IA válido** es un sistema que:
 - [The Agent Company: Benchmarking LLM Agents on Consequential Real World Tasks](https://the-agent-company.com/)
 - [AI agents get office tasks wrong around 70% of the time, and a lot of them aren't AI at all](https://www.theregister.com/2025/06/29/ai_agents_fail_a_lot/)
 - [Solving Real-World Tasks with AI Agents](https://kilthub.cmu.edu/articles/thesis/Solving_Real-World_Tasks_with_AI_Agents/26798437?file=48699703)
+- [Salesforce and Gartner Cast Doubt on AI Agents](https://www.gravity.global/en/blog/salesforce-and-gartner-cast-doubt-on-ai-agents)
 
 # Resumen: "AI agents fail a lot" – The Register (29/06/2025)
 
