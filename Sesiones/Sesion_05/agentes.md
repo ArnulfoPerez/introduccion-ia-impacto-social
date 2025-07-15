@@ -90,8 +90,8 @@ Un **agente IA válido** es un sistema que:
 
 # Resumen: "The Illusion of Thinking" - Apple ML Research
 
-## Contexto
-Estudio técnico que analiza cómo los modelos de lenguaje grandes (LLMs) simulan procesos de razonamiento humano sin comprensión genuina, creando una "ilusión de pensamiento".
+## 📌 **Resumen Ejecutivo**
+Estudio que evalúa las capacidades de razonamiento de los **Modelos de Razonamiento Grande (LRMs)** mediante entornos de puzzles controlados. Revela que estos modelos, a pesar de sus mecanismos de "pensamiento" autogenerado (como Chain-of-Thought), **colapsan en tareas complejas**, mostrando limitaciones fundamentales en razonamiento generalizable.
 
 ## Hallazgos principales
 
@@ -113,6 +113,120 @@ Estudio técnico que analiza cómo los modelos de lenguaje grandes (LLMs) simula
   - Competencia aparente (imitación)
   - Competencia real (comprensión)
 - Importancia de arquitecturas híbridas que integren razonamiento simbólico.
+
+# Diferencias entre LLMs y LRMs
+
+## 🔍 **Definiciones Básicas**
+
+| Sigla | Nombre Completo | Descripción |
+|-------|-----------------|-------------|
+| **LLM** | Large Language Model | Modelos de lenguaje generalistas entrenados para predecir texto |
+| **LRM** | Large Reasoning Model | Variante especializada para razonamiento estructurado |
+
+---
+
+## 🛠 **Diferencias Clave**
+
+### 1. **Enfoque Principal**
+- **LLM**: Generación de texto fluido y contextual
+- **LRM**: Solución de problemas mediante razonamiento paso a paso
+
+### 2. **Arquitectura y Funcionamiento**
+| Característica | LLM | LRM |
+|---------------|-----|-----|
+| **Proceso de pensamiento** | Implícito | Explícito (trazas de razonamiento visibles) |
+| **Uso de tokens** | Optimizado para fluidez | Prioriza pasos lógicos sobre brevedad |
+| **Mecanismos internos** | Sin verificación estructurada | Capas de auto-verificación |
+
+### 3. **Casos de Uso Ideales**
+- **LLM**: Chatbots, generación de contenido
+- **LRM**: Matemáticas, resolución de puzzles, planificación compleja
+
+---
+
+## 📊 **Rendimiento Comparativo**
+(Basado en estudios recientes)
+
+| Área | LLM | LRM |
+|------|-----|-----|
+| **Tareas simples** | Más rápidos | Menos eficientes |
+| **Problemas medianos** | Requiere prompts cuidadosos | Ventaja clara |
+| **Alta complejidad** | Falla abruptamente | Colapso retardado |
+
+---
+
+## ⚠️ **Limitaciones Comunes**
+1. **Falta de comprensión real**: Ambos operan por patrones estadísticos
+2. **Dependencia de datos**: Rendimiento vinculado a ejemplos de entrenamiento
+3. **Barreras de complejidad**: Fracasan en problemas con >40 pasos lógicos
+
+---
+
+## 📌 **Conclusión**
+Los LRM representan un avance en razonamiento artificial, pero:
+- ✅ Superan a LLM en tareas estructuradas
+- ❌ Comparten limitaciones fundamentales de los modelos de lenguaje
+- 🔄 La diferencia se reduce en modelos de última generación
+---
+
+## 🔍 **Hallazgos Clave**
+
+### 1. **Tres Regímenes de Complejidad**
+- **Baja complejidad**: Modelos estándar (sin "pensamiento") superan a los LRMs en eficiencia y precisión.
+- **Media complejidad**: LRMs destacan al generar trazas de razonamiento extensas.
+- **Alta complejidad**: Ambos tipos de modelos **fallan completamente**, incluso con presupuesto de tokens suficiente.
+
+### 2. **Colapso en Tareas Complejas**
+- Los LRMs **reducen su esfuerzo de razonamiento** (tokens usados) al alcanzar un umbral de complejidad crítica, a pesar de tener capacidad computacional disponible.
+- Ejemplo: En *Tower of Hanoi* con >15 discos, la precisión cae a **0%**.
+
+### 3. **Patrones en las Trazas de Razonamiento**
+- **Problemas simples**: Los LRMs encuentran soluciones correctas temprano pero "sobrepiensan" (exploran opciones incorrectas innecesariamente).
+- **Problemas moderados**: Las soluciones correctas emergen tras explorar múltiples caminos erróneos.
+- **Problemas complejos**: Incapacidad total para generar soluciones válidas.
+
+### 4. **Limitaciones Sorprendentes**
+- **Fracaso en ejecución algorítmica**: Incluso cuando se proporciona el algoritmo exacto (ej: solución recursiva para *Tower of Hanoi*), los LRMs **no mejoran su rendimiento**.
+- **Inconsistencia entre puzzles**: Modelos como *Claude 3.7 Thinking* resuelven 100 movimientos en *Tower of Hanoi* pero fallan en >5 movimientos en *River Crossing*.
+
+---
+
+## 🧩 **Metodología**
+- **Entornos de puzzles controlados**: 
+  - *Tower of Hanoi*, *Checker Jumping*, *River Crossing*, *Blocks World*.
+  - Permiten variar la complejidad sistemáticamente y validar soluciones paso a paso.
+- **Comparación**: 
+  - LRMs (ej: *Claude 3.7 Thinking*, *DeepSeek-R1*) vs. modelos estándar sin pensamiento.
+  - Mismo presupuesto computacional (hasta 64k tokens).
+
+---
+
+## 📉 **Resultados Clave**
+| Puzzle               | Umbral de Colapso (N) | Comportamiento Típico de LRMs          |
+|----------------------|-----------------------|----------------------------------------|
+| Tower of Hanoi       | N ≥ 15                | Reducción abrupta de tokens usados.    |
+| River Crossing       | N ≥ 3                 | Fallos tempranos (primeros 5 movimientos). |
+| Blocks World         | N ≥ 40                | Incapacidad para reorganizar bloques.  |
+
+---
+
+## 🎯 **Conclusiones**
+1. **Los LRMs no razonan, imitan**: Su "pensamiento" es una simulación estadística sin comprensión subyacente.
+2. **Barreras fundamentales**: 
+   - Incapacidad para escalar en problemas composicionalmente profundos.
+   - Limitaciones en verificación lógica y consistencia algorítmica.
+3. **Implicaciones**: 
+   - Necesidad de nuevos paradigmas de evaluación más allá de la precisión final.
+   - Arquitecturas híbridas (simbólicas + neuronales) podrían ser clave.
+
+---
+
+## 📄 **Detalles Técnicos**
+- **Acceso al documento**: [Enlace original](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf) (restringido).
+- **Autores**: Equipo de Apple ML (Parshin Shojaee, Samy Bengio, et al.).
+- **Fecha**: Junio 2025.
+
+> **Nota**: Este resumen se basa en el análisis de puzzles algorítmicos. Los resultados pueden no generalizarse a tareas del mundo real.
 
 ## Conclusión
 La "ilusión de pensamiento" en LLMs surge de su capacidad para imitar procesos cognitivos humanos sin replicar mecanismos subyacentes, requiriendo aproximaciones técnicas más robustas para inteligencia artificial general.
