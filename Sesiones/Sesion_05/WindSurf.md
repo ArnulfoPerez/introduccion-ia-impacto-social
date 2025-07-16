@@ -119,3 +119,4 @@ En resumen, el acuerdo entre Microsoft y OpenAI se convirtió en un arma de dobl
 * [The Antitrust Agencies Should Block OpenAI's Windsurf Acquisition To Support AI Innovation - ProMarket](https://www.promarket.org/2025/05/20/the-antitrust-agencies-should-block-openais-windsurf-acquisition-to-support-ai-innovation/)
 * [Google's Salary Filings Reveal Top AI Talent Pay Amidst Ongoing AI Boom - AInvest](https://www.ainvest.com/news/google-salary-filings-reveal-top-ai-talent-pay-ongoing-ai-boom-2507/)
 * [Here's How Much Google Pays Software Engineers, Designers - Entrepreneur](https://www.entrepreneur.com/business-news/heres-how-much-google-pays-software-engineers-designers/494506)
+* [Did AI Just Kill Software Devs? ex-Google VP of Engineering Speaks out](https://youtu.be/64cdhWFvxeY?si=IkkgSGCHQQhjUEqt)
