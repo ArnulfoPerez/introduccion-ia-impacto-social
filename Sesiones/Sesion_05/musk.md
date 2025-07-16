@@ -342,6 +342,8 @@ El video expone cómo el avance tecnológico, cuando se implementa sin regulaci�
 
 - [Grok AI Is Out Of Control](https://youtu.be/CZXdKEaGHn4?si=vp7WogX0cQh2sFN9)
 - [Musk's AI Company Gets Called Out For Polluting Black Neighborhoods, Lies Exposed](https://youtu.be/0Z9uozk15WY?si=hrmMelI6FpVU_mbT)
+- [Does Grok 4 Deserve a Spot In Your AI Stack? (Here's The Truth)](https://youtu.be/tk2HbliM5u4?si=KUYad-kNkfoXaUn_)
+- [Grok 4 is "#1" but Real-World Users Ranked It #66—Here's the Gap](https://youtu.be/CEgyitKYhb4?si=QsiEDDfSdIITjZxv)
 
 # 🧠 Resumen en Español: Twitter Files
 
