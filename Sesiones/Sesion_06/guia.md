@@ -91,10 +91,9 @@ Respuestas que **parecen reales** pero contienen **errores, invenciones o incons
 ## 📚 Recursos recomendados
 
 1. [Microsoft Learn: Introducción a Copilot](https://learn.microsoft.com/es-es/copilot/)
-2. [Google Help: Gemini en Gmail](https://support.google.com/gmail/answer/13491363)
-3. [DeepSeek R1: Proyecto en HuggingFace](https://huggingface.co/DeepSeek-AI/deepseek-vl-7b)
+2. [Google Help: Gemini en Gmail]([https://support.google.com/gmail/answer/13491363](https://support.google.com/mail/answer/14199860?hl=es-419&co=GENIE.Platform%3DAndroid))
+3. [DeepSeek R1: Proyecto en HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 4. [Prompt Engineering Guide](https://www.promptingguide.ai/es)
-5. [Documental breve: ¿Qué son las alucinaciones en IA?](https://www.youtube.com/watch?v=tAFsdhQzWlw)
 
 ---
 
