@@ -91,7 +91,7 @@ Respuestas que **parecen reales** pero contienen **errores, invenciones o incons
 ## 📚 Recursos recomendados
 
 1. [Microsoft Learn: Introducción a Copilot](https://learn.microsoft.com/es-es/copilot/)
-2. [Google Help: Gemini en Gmail]([https://support.google.com/gmail/answer/13491363](https://support.google.com/mail/answer/14199860?hl=es-419&co=GENIE.Platform%3DAndroid))
+2. [Google Help: Gemini en Gmail](https://support.google.com/mail/answer/14199860?hl=es-419&co=GENIE.Platform%3DAndroid)
 3. [DeepSeek R1: Proyecto en HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 4. [Prompt Engineering Guide](https://www.promptingguide.ai/es)
 
