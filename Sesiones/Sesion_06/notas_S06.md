@@ -133,3 +133,21 @@
 
 La IA transforma el trabajo, pero también exige **nuevas competencias, vigilancia ética y rediseño organizacional**. Detectar alucinaciones, usar asistentes con criterio y dominar el arte del prompting son habilidades esenciales para navegar un mundo donde la inteligencia artificial no solo automatiza, sino también **influye, decide y moldea narrativas**.
 
+## Referencias
+
+- [Did AI Just Kill Software Devs? ex-Google VP of Engineering Speaks out](https://youtu.be/64cdhWFvxeY?si=wf0RzBTH0vPJjFRR)
+- [AI 2027](https://ai-2027.com/)
+- [The AI 2027 Scenario](https://youtu.be/5KVDDfAkRgc?si=oCvJcs5YNAYM05Bn)
+- [AI That Thinks Like Us: New Model Predicts Human Decisions With Startling Accuracy](https://scitechdaily.com/ai-that-thinks-like-us-new-model-predicts-human-decisions-with-startling-accuracy/)
+- [Stephen Wolfram on AI, human-like minds & formal knowledge](https://youtu.be/pr2cdW21-3E?si=xTfMyRHu-FHXuHKv)
+- [Are We at the End of Ai Progress? — With Gary Marcus](https://youtu.be/3MygnjdqNWc?si=l-KZNcCHqCtp0X3G)
+- [I paid $3,000 for Grok 4. Was it worth it?](https://youtu.be/TbLsOsbFSe0?si=NHpJf-adDYKcrkmc)
+- [The New Code — Sean Grove, OpenAI](https://youtu.be/8rABwKRsec4?si=3P2vLa2kdh5IPJd5)
+- [GitHub CEO Exposes Salesforce's Massive AI Mistake - Why Smart Companies Are HIRING More Developers](https://www.youtube.com/live/Vi24NXJrebg?si=aVaQLdbKWxmpzdjP)
+
+- [Google, OpenAI, Chaos: Inside Windsurf's $3B Deal Implosion (72 hrs)](https://youtu.be/qgQvci8NzM8?si=WxD0lirUleepiC3D)
+- [Oxford’s AI Chair: The Singularity is Bullshit](https://youtu.be/yaHiqGNrj60?si=AOurSsiTSujtPCMS)
+- [AI’s Drawbacks: Environmental Damage, Bad Benchmarks, Outsourcing Thinking](https://youtu.be/WreiudYaenc?si=ji05vmFXer-pE767)
+- [Oxford's AI Chair: LLMs are a HACK](https://youtu.be/7-UzV9AZKeU?si=aOFYt7jL7UjA4RJB)
+- [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+
