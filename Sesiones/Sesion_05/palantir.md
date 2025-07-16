@@ -167,7 +167,83 @@ La posición personal de Alex Karp y la institucional de Palantir revelan una co
 #### Notas:  
 - 🚨 **Limitaciones**: Cifras difíciles de verificar por bloqueo y destrucción de infraestructura.  
 - ⚠️ **Definiciones polémicas**: Israel considera "combatientes" a hombres adultos en zonas militantes.  
-- 🔄 **Actualización**: Números aumentan diariamente.  
+- 🔄 **Actualización**: Números aumentan diariamente.
+
+# 🧠 Plataformas de Palantir Technologies
+
+## 🕵️ Gotham — Inteligencia para defensa y seguridad
+
+**Descripción**: Plataforma diseñada para agencias gubernamentales, militares y de inteligencia. Su objetivo es fusionar datos masivos y dispersos (satélites, redes sociales, documentos, etc.) para generar inteligencia operativa.
+
+**Aplicaciones**:
+- Identificación de amenazas terroristas.
+- Análisis de redes criminales.
+- Apoyo a operaciones militares en tiempo real.
+
+**Clientes principales**:
+- Departamento de Defensa de EE.UU.
+- FBI, CIA, y agencias de seguridad aliadas.
+
+---
+
+## 🏢 Foundry — IA para empresas y gobiernos civiles
+
+**Descripción**: Plataforma orientada al sector comercial y público no militar. Permite integrar, limpiar y analizar datos corporativos para mejorar la toma de decisiones.
+
+**Aplicaciones**:
+- Optimización de cadenas de suministro (ej. Airbus).
+- Gestión hospitalaria y distribución de vacunas (ej. NHS).
+- Modelos predictivos en banca y farmacéutica.
+
+**Clientes principales**:
+- Merck, Airbus, NHS, Morgan Stanley.
+
+---
+
+## ⚙️ Apollo — Infraestructura invisible para despliegue continuo
+
+**Descripción**: Sistema de entrega continua que permite instalar y actualizar Gotham y Foundry en entornos remotos, seguros o híbridos. Automatiza el despliegue de software sin interrupciones.
+
+**Aplicaciones**:
+- Actualización de software en drones militares.
+- Gestión de sistemas en satélites y bases restringidas.
+- DevOps en entornos críticos.
+
+**Ventaja clave**:
+- Permite que Palantir funcione en cualquier entorno: nube, local o edge computing.
+
+---
+
+## 🤖 AIP — Artificial Intelligence Platform
+
+**Descripción**: Plataforma de IA generativa que conecta modelos de lenguaje (LLMs) con datos operativos reales. Permite crear agentes inteligentes personalizados para tareas específicas.
+
+**Características**:
+- Interfaz visual para construir agentes modulares.
+- Integración con Foundry y Apollo para despliegue seguro.
+- Ontología empresarial para representar decisiones, no solo datos.
+
+**Aplicaciones**:
+- Automatización de procesos en defensa, salud y finanzas.
+- Simulación de escenarios y toma de decisiones en tiempo real.
+- Evaluación de modelos y benchmarking de LLMs.
+
+**Clientes destacados**:
+- Empresas del sector financiero (xAI, TWG Global).
+- Gobiernos y organismos internacionales.
+
+---
+
+## 🧩 Integración entre plataformas
+
+| Plataforma | Rol principal | Integración |
+|------------|----------------|-------------|
+| Gotham     | Inteligencia táctica | Usa Apollo para actualizaciones seguras |
+| Foundry    | Análisis empresarial | Se conecta con AIP para IA generativa |
+| Apollo     | DevOps automatizado | Motor de despliegue para Gotham y Foundry |
+| AIP        | IA generativa y agentes | Orquesta decisiones con datos y lógica |
+
+
 
 
 ## Referencias
