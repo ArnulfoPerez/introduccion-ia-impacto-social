@@ -136,6 +136,7 @@ La IA transforma el trabajo, pero también exige **nuevas competencias, vigilanc
 ## Referencias
 
 - [Did AI Just Kill Software Devs? ex-Google VP of Engineering Speaks out](https://youtu.be/64cdhWFvxeY?si=wf0RzBTH0vPJjFRR)
+- [Grok 4 Breakdown: Elon Musk's $4.7B AI Worth the Hype?](https://www.youtube.com/live/SyGshOmWeb8?si=YisICtEz8qlIGAoI)
 - [AI 2027](https://ai-2027.com/)
 - [The AI 2027 Scenario](https://youtu.be/5KVDDfAkRgc?si=oCvJcs5YNAYM05Bn)
 - [AI That Thinks Like Us: New Model Predicts Human Decisions With Startling Accuracy](https://scitechdaily.com/ai-that-thinks-like-us-new-model-predicts-human-decisions-with-startling-accuracy/)
@@ -157,4 +158,5 @@ La IA transforma el trabajo, pero también exige **nuevas competencias, vigilanc
 - [AI’s Drawbacks: Environmental Damage, Bad Benchmarks, Outsourcing Thinking](https://youtu.be/WreiudYaenc?si=ji05vmFXer-pE767)
 - [Oxford's AI Chair: LLMs are a HACK](https://youtu.be/7-UzV9AZKeU?si=aOFYt7jL7UjA4RJB)
 - [DHH: Future of Programming, AI, Ruby on Rails, Productivity & Parenting | Lex Fridman Podcast](https://www.youtube.com/watch?v=vagyIcmIGOQ)
+- [Yann LeCun "Mathematical Obstacles on the Way to Human-Level AI"](https://youtu.be/ETZfkkv6V7Y?si=GmEJHUlgMRTWh4yI)
 
