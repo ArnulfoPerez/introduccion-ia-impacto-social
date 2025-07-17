@@ -94,6 +94,11 @@ Respuestas que **parecen reales** pero contienen **errores, invenciones o incons
 2. [Google Help: Gemini en Gmail](https://support.google.com/mail/answer/14199860?hl=es-419&co=GENIE.Platform%3DAndroid)
 3. [DeepSeek R1: Proyecto en HuggingFace](https://huggingface.co/deepseek-ai/DeepSeek-R1)
 4. [Prompt Engineering Guide](https://www.promptingguide.ai/es)
+5. [Grok 4 Breakdown: Elon Musk's $4.7B AI Worth the Hype?](https://www.youtube.com/live/SyGshOmWeb8?si=V9wo3NC8EGVjAZOB)
+6. [Why Can't AI Make Its Own Discoveries? — With Yann LeCun](https://youtu.be/qvNCVYkHKfg?si=9qWdLTMc1sj4uymQ)
+7. [Zuckerberg’s last stand — and why it might end in disaster](https://medium.com/enrique-dans/zuckerbergs-last-stand-and-why-it-might-end-in-disaster-b90bc98f7acd)
+8. [Highlights of the Fireside Chat with Ilya Sutskever & Jensen Huang: AI Today & Vision of the Future](https://youtu.be/GI4Tpi48DlA?si=Q0TvM4Qw3TKF2StM)
+9. [Sam Altman Just REVEALED The Future Of AI](https://youtu.be/P1S3wDeP-Co?si=K-msRZw7U6zHnCzF)
 
 ---
 
