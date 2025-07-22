@@ -56,7 +56,7 @@
 
 ---
 
-# 📚 Ensayo: La Concepción Social de la Inteligencia y la Conciencia en la IA  
+# 📚 La Concepción Social de la Inteligencia y la Conciencia en la IA  
 ## Del Frankenstein romántico a la Singularidad de Kurzweil  
 
 ### **Introducción: La IA como espejo cultural**  
@@ -148,6 +148,47 @@ Para la IA, esto implica que:
 
 ---
 
+# 🧠 Modelos actuales de decisión neurocognitiva 
+## ¿Cómo toma decisiones el cerebro?
+
+Durante mucho tiempo, se pensó que el cerebro funcionaba como una máquina jerárquica:
+- 🐍 Parte “reptiliana” para supervivencia,
+- 💓 Sistema límbico para emociones,
+- 🧠 Corteza para razonamiento.
+
+Este modelo se llama el **“Cerebro Triuno”**, y aunque fue muy popular, hoy sabemos que es **demasiado simplista y está científicamente superado**.
+
+---
+
+## 🔁 El cerebro como sistema adaptativo
+
+Los modelos actuales explican que el cerebro:
+- No opera por regiones independientes, sino por **redes interconectadas**.
+- **Predice** y **adapta** sus respuestas antes de que ocurran los estímulos.
+- Toma decisiones basadas en una mezcla de emociones, memoria, contexto corporal y pensamiento.
+
+### 🔍 Conceptos clave
+- **Interocepción**: percepción del estado interno del cuerpo (hambre, fatiga, tensión).
+- **Exterocepción**: percepción del entorno externo (ruidos, rostros, amenazas).
+- **Allostasis**: ajuste dinámico de las funciones corporales para mantener equilibrio.
+
+---
+
+## 🧬 Decisiones en tiempo real: redes cooperando
+
+La toma de decisiones implica múltiples redes, como:
+
+| Región | Rol en la decisión |
+|--------|---------------------|
+| **Amígdala** | Detecta peligro y activa respuestas emocionales. |
+| **Corteza prefrontal** | Evalúa opciones y regula impulsos. |
+| **Cerebelo** | Anticipa consecuencias y ajusta respuestas adaptativas. |
+| **Corteza cingulada** | Integra emociones con razonamiento. |
+
+No hay una “última palabra” única. Más bien, es un **diálogo constante entre
+
+---
+
 ## **Referencias Clave**  
 [^1]: [Pearce, E., Stringer, C., & Dunbar, R. (2013). *Neanderthal brain size at birth*. PNAS.](https://www.pnas.org/doi/10.1073/pnas.1302645110)  
 [^2]: [Rodríguez-Vidal, J. et al. (2014). *Neanderthal symbolic behavior*. Nature.](https://www.nature.com/articles/nature12960)  
@@ -195,6 +236,15 @@ Para la IA, esto implica que:
 - [The Last Question - Isaac Asimov - Read by Leonard Nimoy](https://youtu.be/8XOtx4sa9k4?si=szvUhAeFx2ifG7fk)
 - [The Last Answer (Isaac Asimov) Short Story Full Audiobook](https://youtu.be/ZL6Mj2K3cGk?si=ChdjOm6ya8M_xrCI)
 - [OpenAI just solved math](https://youtu.be/-adVGpY_vSQ?si=EkIeMh9JtLRsIBY-)
+- [External Measures of Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC3207484/)
+- [Encephalization quotient](https://en.wikipedia.org/wiki/Encephalization_quotient)
+- [Triune brain](https://en.wikipedia.org/wiki/Triune_brain)
+- [Cerebral cortex](https://en.wikipedia.org/wiki/Cerebral_cortex)
+- [Human brain](https://en.wikipedia.org/wiki/Human_brain)
+- [Neuroscience and intelligence](https://en.wikipedia.org/wiki/Neuroscience_and_intelligence)
 - [Business INsider investigates the footprint of data centers in the USA](https://www.facebook.com/reel/660752670323426)
 - [The Simon Abundance Index 2025]https://humanprogress.org/the-simon-abundance-index-2025/?fbclid=IwY2xjawLqHKxleHRuA2FlbQIxMABicmlkETF5d3p5TmRDQ3d1MDJRUDF4AR53szH2pbktoijiWlMp-QHoDpAodBizg379MqwaQ1UfR9Hp4huaB7Be8Pd8Mg_aem_Cc_NgtpYun6IQWrte8uQFQ)
 - [How MCP Turns Your AI from Chatbot to Workflow Automation Powerhouse](https://levelup.gitconnected.com/how-mcp-turns-your-ai-from-chatbot-to-workflow-automation-powerhouse-c4016bf8104f)
+- [Human brain development timeline](https://en.wikipedia.org/wiki/Human_brain_development_timeline)
+- [Brain development timelines](https://en.wikipedia.org/wiki/Brain_development_timelines)
+- [Encephalization quotient](https://en.wikipedia.org/wiki/Encephalization_quotient)
