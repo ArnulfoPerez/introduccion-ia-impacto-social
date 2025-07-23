@@ -1,6 +1,4 @@
-Claro, arnulfo. Aquí tienes una sinopsis estructurada de *The Terminator* (1984), su impacto cultural y cómo contrasta con las visiones de Stanley Kubrick y Philip K. Dick sobre la tecnología y la inteligencia artificial:
 
----
 
 ## 🔥 *The Terminator* – Sinopsis y visión tecnológica
 
