@@ -81,7 +81,8 @@ La IA se encuentra en un punto de inflexión. Los modelos actuales —masivos, c
 6. [Adversarial Attacks on Biometrics](https://arxiv.org/abs/2305.19756)  
 7. [Palantir’s Military AI Contracts](https://theintercept.com/2023/04/04/palantir-ai-military-contracts/)  
 8. [Carbon Pricing for Compute](https://www.nature.com/articles/s41558-023-01647-y)  
-9. [IEEE Transparency Standards](https://standards.ieee.org/industry-connections/ecad/transparency/)  
+9. [IEEE Transparency Standards](https://standards.ieee.org/industry-connections/ecad/transparency/)
+10. [Graphs AI Companies Want You To Misunderstand ](https://www.youtube.com/watch?v=ny4X0OCL7nI)
 
 ---
 
